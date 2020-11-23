@@ -1,0 +1,6128 @@
+{
+  "candidates": [
+    {
+      "nomeCandidato": "ABIATÁ BIÃO",
+      "numeroCandidato": "55678",
+      "DescCargo": "Vereador",
+      "escolas": [
+        {
+          "nome": "COLÉGIO DE APLICAÇÃO PIO XII",
+          "latitude": -22.9099,
+          "longitude": -47.0522,
+          "quantidadeVotos": 20
+        },
+        {
+          "nome": "COLÉGIO FRANCISCANO AVE MARIA",
+          "latitude": -22.912,
+          "longitude": -47.0548,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "COLÉGIO MADRE CECÍLIA",
+          "latitude": -22.8977,
+          "longitude": -47.0498,
+          "quantidadeVotos": 20
+        },
+        {
+          "nome": "COLÉGIO OBJETIVO",
+          "latitude": -22.8903,
+          "longitude": -47.0479,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "COLEGIO PROGRESSO CAMPINEIRO",
+          "latitude": -22.8983,
+          "longitude": -47.0558,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE. CARLOS GOMES",
+          "latitude": -22.8988,
+          "longitude": -47.0586,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "E.E. CULTO A CIÊNCIA",
+          "latitude": -22.9008,
+          "longitude": -47.0688,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE. DONA CASTORINA CAVALHEIRO",
+          "latitude": -22.8925,
+          "longitude": -47.0632,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE. FRANCISCO GLICÉRIO",
+          "latitude": -22.9061,
+          "longitude": -47.0549,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE. JOÃO LOURENÇO RODRIGUES",
+          "latitude": -22.9026,
+          "longitude": -47.0488,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE. OROZIMBO MAIA",
+          "latitude": -22.9065,
+          "longitude": -47.0679,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE. PROFESSOR BENEDITO SAMPAIO",
+          "latitude": -22.8999,
+          "longitude": -47.0668,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE. PROFESSOR JOSÉ VILLAGELIN NETO",
+          "latitude": -22.9158,
+          "longitude": -47.0475,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EMEI PREFEITO JOSÉ PIRES NETO",
+          "latitude": -22.9146,
+          "longitude": -47.0471,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "FACULDADES INTEGRADAS IPEP",
+          "latitude": -22.9098,
+          "longitude": -47.0598,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "SENAC",
+          "latitude": -22.899,
+          "longitude": -47.0612,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "USF - UNIV. SÃO FRANCISCO",
+          "latitude": -22.8943,
+          "longitude": -47.0502,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "CEI MARIA BEATRIZ CARVALHO MOREIRA",
+          "latitude": -22.9381,
+          "longitude": -47.0408,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "COLÉGIO DOM BARRETO",
+          "latitude": -22.9196,
+          "longitude": -47.0535,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EE. ÁUREA ANUNCIAÇÃO AMÉRICO DE GODOY",
+          "latitude": -22.9324,
+          "longitude": -47.0156,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE. DEPUTADO JAMIL GADIA",
+          "latitude": -22.944,
+          "longitude": -47.0572,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE. DOM BARRETO",
+          "latitude": -22.9159,
+          "longitude": -47.0583,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE. DR. DISNEI FRANCISCO SCORNAIENCHI",
+          "latitude": -22.9594,
+          "longitude": -47.0534,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE. JOÃO GUMERCINDO GUIMARÃES",
+          "latitude": -22.9427,
+          "longitude": -47.0553,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE. JOSÉ MARIA MATOSINHO",
+          "latitude": -22.9248,
+          "longitude": -47.075,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE. JÚLIO MESQUITA",
+          "latitude": -22.9331,
+          "longitude": -47.0485,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE. MONSENHOR EMÍLIO JOSÉ SALIM",
+          "latitude": -22.9245,
+          "longitude": -47.0549,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE. NELY HELENA ASSIS DE ANDRADE",
+          "latitude": -22.9365,
+          "longitude": -47.0489,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EE. PROCÓPIO FERREIRA",
+          "latitude": -22.9359,
+          "longitude": -47.0422,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE. PROF. LUIZ GALHARDO",
+          "latitude": -22.9349,
+          "longitude": -47.034,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE. PROF. MILTON DE TOLOSA",
+          "latitude": -22.9272,
+          "longitude": -47.0602,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROF. PAULO LUIZ DECOURT",
+          "latitude": -22.9501,
+          "longitude": -47.033,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF. AVELINO CANAZZA",
+          "latitude": -22.9489,
+          "longitude": -47.024,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF. ELVIRA MURARO",
+          "latitude": -22.9319,
+          "longitude": -47.023,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF. FRANCISCO PONZIO SOBRINHO",
+          "latitude": -22.9351,
+          "longitude": -47.0329,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF. GENY RODRIGUES",
+          "latitude": -22.9202,
+          "longitude": -47.0762,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EMEF. JÚLIO MESQUITA FILHO",
+          "latitude": -22.947,
+          "longitude": -47.025,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EMEF. MARIA LUIZA POMPEU DE CAMARGO",
+          "latitude": -22.9404,
+          "longitude": -47.0259,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF. PRESIDENTE HUMBERTO DE ALENCAR CASTELO BRANCO",
+          "latitude": -22.9363,
+          "longitude": -47.062,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF. PROFESSORA ANÁLIA FERRAZ COSTA COUTO",
+          "latitude": -22.9426,
+          "longitude": -47.0362,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEI. PRESIDENTE CAMPOS SALLES",
+          "latitude": -22.9482,
+          "longitude": -47.0561,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEI. PROFº HILÁRIO PEREIRA MAGRO JÚNIOR",
+          "latitude": -22.927,
+          "longitude": -47.0498,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "UNIP - UNIVERSIDADE PAULISTA - CAMPUS VITALE",
+          "latitude": -22.9221,
+          "longitude": -47.0687,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "UNIP - UNIVERSIDADE PAULISTA DE CAMPINAS - CAMPUS SWIFT",
+          "latitude": -22.9269,
+          "longitude": -47.038,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "UNIVERSIDADE SÃO FRANCISCO",
+          "latitude": -22.9344,
+          "longitude": -47.0353,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "CASA MAESTRO CARLOS GOMES - CENTRO DE ATENDIMENTO SÓCIOEDUCATIVO AO AD",
+          "latitude": -22.8575,
+          "longitude": -47.1091,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "CENTRO ESTADUAL DE EDUCAÇÃO DE JOVENS E ADULTOS PAULO DECOURT",
+          "latitude": -22.8575,
+          "longitude": -47.0425,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. ARTHUR SEGURADO",
+          "latitude": -22.8794,
+          "longitude": -47.0735,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. BARÃO GERALDO DE REZENDE",
+          "latitude": -22.8224,
+          "longitude": -47.084,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. CEL. FIRMINO GONÇALVES DA SILVEIRA",
+          "latitude": -22.8586,
+          "longitude": -47.0359,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. DR. TELÊMACO PAIOLI MELGES",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E .FRANCISCO ÁLVARES",
+          "latitude": -22.7905,
+          "longitude": -47.0814,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. JOSÉ PEDRO DE OLIVEIRA",
+          "latitude": -22.8228,
+          "longitude": -47.0804,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE. MOACYR SANTOS DE CAMPOS",
+          "latitude": -22.8482,
+          "longitude": -47.0411,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROF. ADALBERTO NASCIMENTO",
+          "latitude": -22.8832,
+          "longitude": -47.0534,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROF. ADALBERTO PRADO E SILVA",
+          "latitude": -22.8543,
+          "longitude": -47.0711,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROF. ADIWALDE DE OLIVEIRA COELHO",
+          "latitude": -22.8833,
+          "longitude": -47.0542,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROF. ANÍBAL DE FREITAS",
+          "latitude": -22.8881,
+          "longitude": -47.0629,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROF. DANTE ALIGHIERI VITA",
+          "latitude": -22.848,
+          "longitude": -47.0523,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROF. DR. CARLOS DE ARAÚJO PIMENTEL",
+          "latitude": -22.8588,
+          "longitude": -47.0617,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROF. GUSTAVO MARCONDES",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROF. HILTON FEDERICI",
+          "latitude": -22.818,
+          "longitude": -47.0917,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROF. LUIZ GONZAGA HORTA LISBOA",
+          "latitude": -22.8136,
+          "longitude": -47.034,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROF. NEWTON SILVA TELLES",
+          "latitude": -22.8613,
+          "longitude": -47.0671,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROF. ROQUE MAGALHÃES BARROS",
+          "latitude": -22.9384,
+          "longitude": -47.0851,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROF. UACURY RIBEIRO DE ASSIS BASTOS",
+          "latitude": -22.7599,
+          "longitude": -46.9849,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROFA. ANA RITA GODINHO POUSA",
+          "latitude": -22.878,
+          "longitude": -47.0408,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROFA. CASTINAUTA DE B.M. ALBUQUERQUE",
+          "latitude": -22.8497,
+          "longitude": -47.117,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROFA. DORA MARIA MACIEL DE CASTRO KANSO",
+          "latitude": -22.7516,
+          "longitude": -47.0569,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROFA. EUNICE VIRGÍNIA RAMOS NAVERO",
+          "latitude": -22.8435,
+          "longitude": -47.0222,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE REGINA COUTINHO NOGUEIRA",
+          "latitude": -22.8714,
+          "longitude": -47.041,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE 31 DE MARCO",
+          "latitude": -22.8536,
+          "longitude": -47.1081,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EEPG PROFA MARIA ALICE COLEVATI RODRIGUES",
+          "latitude": -22.8228,
+          "longitude": -47.0915,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EEPG SERGIO PEREIRA PORTO - FISICO",
+          "latitude": -22.8124,
+          "longitude": -47.0684,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF EDSON LUIZ LIMA SOUTO",
+          "latitude": -22.8409,
+          "longitude": -47.1565,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEI AGOSTINHO PATTARO",
+          "latitude": -22.8232,
+          "longitude": -47.0816,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEI RECANTO DA ALEGRIA",
+          "latitude": -22.8511,
+          "longitude": -47.0347,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMPG PE JOSE NARCISO VIEIRA EHREMBERG",
+          "latitude": -22.8465,
+          "longitude": -47.1152,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMPG PROFA DULCE BENTO NASCIMENTO",
+          "latitude": -22.7922,
+          "longitude": -47.0712,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "ESCOLA SALESIANA SAO JOSE",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "ETECAP",
+          "latitude": -22.8726,
+          "longitude": -47.0899,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "FACULDADE ANHANGUERA DE CAMPINAS - UNIDADE 3 (FAC)",
+          "latitude": -22.8518,
+          "longitude": -47.0436,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "INSTITUTO EDUCACIONAL JAIME KRATZ",
+          "latitude": -22.8685,
+          "longitude": -47.06,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "LICEU SALESIANO NOSSA SENHORA AUXILIADORA",
+          "latitude": -22.8833,
+          "longitude": -47.0586,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "SEIAS - INSTITUTO EDUCACIONAL IMACULADA",
+          "latitude": -22.8901,
+          "longitude": -47.0622,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "SOCIEDADE DE INSTRUÇÃO E LEITURA COL. RIO BRANCO CPS",
+          "latitude": -22.8266,
+          "longitude": -47.0756,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "UNICAMP",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "UNIVERSIDADE PRESBITERIANA MACKENZIE",
+          "latitude": -22.8854,
+          "longitude": -47.0685,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "CEMEI ANNITA AFFONSO FERREIRA",
+          "latitude": -22.9573,
+          "longitude": -47.0879,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "CEMEI CATARINA MILANI MANARINI",
+          "latitude": -22.9532,
+          "longitude": -47.0904,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "CEMEI IRMÃ DULCE",
+          "latitude": -22.964,
+          "longitude": -47.0969,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "CEMEI JOSÉ FIDELIS",
+          "latitude": -23.0041,
+          "longitude": -47.1092,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "CEMEI MANOEL ALVES DA SILVA",
+          "latitude": -22.9759,
+          "longitude": -47.1325,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "CEMEI MARILENE CABRAL",
+          "latitude": -22.9712,
+          "longitude": -47.1244,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "CEMEI PROFA. MARIA ISABEL BALTAR DA ROCHA RODRIGUES",
+          "latitude": -22.95,
+          "longitude": -47.0815,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "CIMEI PROFESSORA THERMUTIS ARAÚJO MACHADO",
+          "latitude": -22.9738,
+          "longitude": -47.1194,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "COLÉGIO JARDINS MEDITERRÂNEO",
+          "latitude": -22.9353,
+          "longitude": -47.0915,
+          "quantidadeVotos": 4
+        },
+        {
+          "nome": "CRESCER INSTITUTO EDUCACIONAL",
+          "latitude": -22.9409,
+          "longitude": -47.1023,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. BENEDICTA DE SALLES PIMENTEL WUTKE",
+          "latitude": -23.0002,
+          "longitude": -47.1078,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. CONJUNTO VIDA NOVA III",
+          "latitude": -22.9732,
+          "longitude": -47.1774,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. DEPUTADO EDUARDO BARNABÉ",
+          "latitude": -22.9788,
+          "longitude": -47.1386,
+          "quantidadeVotos": 3
+        },
+        {
+          "nome": "E.E. DIC I",
+          "latitude": -22.9788,
+          "longitude": -47.1389,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "E.E. DONA VENERANDA MARTINS SIQUEIRA",
+          "latitude": -22.9653,
+          "longitude": -47.1449,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "E.E. DR. ANTONIO PIRES BARBOSA",
+          "latitude": -22.9545,
+          "longitude": -47.1129,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE. DR ENÉAS CEZAR FERREIRA",
+          "latitude": -22.9838,
+          "longitude": -47.119,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EE. DR. MANOEL ALEXANDRE MARCONDES MACHADO",
+          "latitude": -22.9617,
+          "longitude": -47.1189,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. ELISEU NARCISO",
+          "latitude": -22.9784,
+          "longitude": -47.1226,
+          "quantidadeVotos": 3
+        },
+        {
+          "nome": "E.E. FRANCISCO DE ASSIS",
+          "latitude": -23.0294,
+          "longitude": -47.1008,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. JORNALISTA CECÍLIA DE GODOY CAMARGO",
+          "latitude": -22.9806,
+          "longitude": -47.1276,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "E.E. ORLANDO SIGNORELLI",
+          "latitude": -22.9784,
+          "longitude": -47.1322,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PADRE JOSÉ DOS SANTOS",
+          "latitude": -22.939,
+          "longitude": -47.1027,
+          "quantidadeVotos": 4
+        },
+        {
+          "nome": "E.E. PEDRO SALVETTI NETTO",
+          "latitude": -22.953,
+          "longitude": -47.1125,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "E.E. PREFEITO ANTONIO DA COSTA SANTOS",
+          "latitude": -22.9916,
+          "longitude": -47.1389,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "E.E. PROF. BENEVENUTO TORRES",
+          "latitude": -22.9674,
+          "longitude": -47.1499,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EE PROF. CELESTINO DE CAMPOS",
+          "latitude": -22.9395,
+          "longitude": -47.0905,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROF. FRANCISCO RIBEIRO SAMPAIO",
+          "latitude": -22.9761,
+          "longitude": -47.0868,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROF. LUIZ GONZAGA DA COSTA",
+          "latitude": -22.9453,
+          "longitude": -47.098,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROF. NEWTON PIMENTA NEVES",
+          "latitude": -22.9755,
+          "longitude": -47.128,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "E.E. PROFA. CELESTE PALANDI DE MELLO",
+          "latitude": -23.0304,
+          "longitude": -47.1157,
+          "quantidadeVotos": 5
+        },
+        {
+          "nome": "E.E. PROFA. CONCEIÇÃO RIBEIRO",
+          "latitude": -22.9668,
+          "longitude": -47.1493,
+          "quantidadeVotos": 3
+        },
+        {
+          "nome": "E.E. PROFA. MARIA DE LOURDES CAMPOS FREIRE MARQUES",
+          "latitude": -22.9671,
+          "longitude": -47.1132,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROFA. MARIA JULIETA DE GODÓI CARTEZANI",
+          "latitude": -22.9453,
+          "longitude": -47.0976,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "E.E. PROFA. ROSENTINA FARIA SYLLOS",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EE PROFESSOR DR PAUL EUGENE CHARBONNEAU",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "EE. PROFESSOR MÁRIO JUNQUEIRA DA SILVA",
+          "latitude": -22.9824,
+          "longitude": -47.1193,
+          "quantidadeVotos": 5
+        },
+        {
+          "nome": "EE PROFESSOR PAULO JOSE OCTAVIANO",
+          "latitude": -22.988,
+          "longitude": -47.1526,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EE. PROFESSOR SALVADOR BOVE",
+          "latitude": -22.9834,
+          "longitude": -47.1017,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EE RESIDENCIAL SÃO JOSÉ",
+          "latitude": -22.9655,
+          "longitude": -47.1619,
+          "quantidadeVotos": 5
+        },
+        {
+          "nome": "EE SAN DIEGO",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE SARGENTO JOAQUIM PEDROSO",
+          "latitude": -22.9764,
+          "longitude": -47.1411,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE THEREZINA DA FONSECA PARES",
+          "latitude": -22.9547,
+          "longitude": -47.0918,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EE WASHINGTON JOSE DE LACERDA ORTIZ",
+          "latitude": -22.9358,
+          "longitude": -47.0869,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF CARMELINA DE CASTRO RINCO",
+          "latitude": -22.9689,
+          "longitude": -47.1345,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EMEF CORREA DE MELLO",
+          "latitude": -22.9688,
+          "longitude": -47.1388,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF GENERAL HUMBERTO DE SOUZA MELO",
+          "latitude": -22.9562,
+          "longitude": -47.0932,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF MARIA PAVANATTI FAVARO",
+          "latitude": -22.9883,
+          "longitude": -47.145,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "EMEF PROF BENEVENUTO FIGUEIREDO TORRES",
+          "latitude": -22.9611,
+          "longitude": -47.0963,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EMEF PROFA ELZA MARIA PELEGRINI DE AGUIAR",
+          "latitude": -22.9746,
+          "longitude": -47.1475,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF VIRGINIA MENDES ANTUNES DE VASCONCELLOS",
+          "latitude": -22.9746,
+          "longitude": -47.1078,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF/EJA PROFA ODILA MAIA ROCHA BRITO",
+          "latitude": -23.0389,
+          "longitude": -47.1056,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEI GUILHERME DE ALMEIDA",
+          "latitude": -22.9479,
+          "longitude": -47.0957,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEI TANCREDO NEVES",
+          "latitude": -22.9339,
+          "longitude": -47.0923,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "FUNDAÇÃO BRADESCO",
+          "latitude": -22.9993,
+          "longitude": -47.0848,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "NAVE MÃE ANÍSIO ESPÍNOLA TEIXEIRA",
+          "latitude": -23.6691,
+          "longitude": -46.3867,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "C.E.I. DR. MANOEL AFFONSO FERREIRA",
+          "latitude": -22.9095,
+          "longitude": -47.0842,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "C.E.I. JARDIM ENCANTADO",
+          "latitude": -22.9232,
+          "longitude": -47.1094,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "C.E.I. JOÃO VIALTA",
+          "latitude": -22.9519,
+          "longitude": -47.1867,
+          "quantidadeVotos": 4
+        },
+        {
+          "nome": "C.E.I. MARIA DO CARMO DE ABREU SODRÉ (CEMEI 41)",
+          "latitude": -22.9325,
+          "longitude": -47.0944,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "C.E.I. MATILDE AZEVEDO EGÍDIO SETÚBAL",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "E.E. MAJOR ADOLPHO ROSSIN",
+          "latitude": -22.9288,
+          "longitude": -47.1665,
+          "quantidadeVotos": 3
+        },
+        {
+          "nome": "E.E. ANTONIO CARLOS LEMAN (PQ. SÃO BENTO)",
+          "latitude": -22.9664,
+          "longitude": -47.1984,
+          "quantidadeVotos": 6
+        },
+        {
+          "nome": "E.E. CAMPO GRANDE II",
+          "latitude": -22.9475,
+          "longitude": -47.1867,
+          "quantidadeVotos": 3
+        },
+        {
+          "nome": "E.E. CARLOS ALBERTO GALHIEGO",
+          "latitude": -22.936,
+          "longitude": -47.1876,
+          "quantidadeVotos": 7
+        },
+        {
+          "nome": "E.E. CONSUELO FREIRE BRANDÃO",
+          "latitude": -22.9434,
+          "longitude": -47.1001,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. DONA VALENTINA S. DE O. FIGUEIREDO",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. DR. NEWTON OPPERMANN",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 5
+        },
+        {
+          "nome": "E.E. ELVIRA PARDO MEO MURARO",
+          "latitude": -22.9348,
+          "longitude": -47.0727,
+          "quantidadeVotos": 18
+        },
+        {
+          "nome": "E.E. ESCRITORA RACHEL DE QUEIRÓZ",
+          "latitude": -22.9453,
+          "longitude": -47.1181,
+          "quantidadeVotos": 7
+        },
+        {
+          "nome": "E.E. FELIPE CANTUSIO",
+          "latitude": -22.9213,
+          "longitude": -47.0857,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. GLÓRIA APARECIDA ROSA VIANA",
+          "latitude": -22.9355,
+          "longitude": -47.1546,
+          "quantidadeVotos": 7
+        },
+        {
+          "nome": "E.E. GUIDO SEGALHO",
+          "latitude": -22.9096,
+          "longitude": -47.084,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. HERCY MORAES",
+          "latitude": -22.9278,
+          "longitude": -47.1139,
+          "quantidadeVotos": 3
+        },
+        {
+          "nome": "E.E. HUGO PENTEADO TEIXEIRA",
+          "latitude": -22.9591,
+          "longitude": -47.2004,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "E.E. JARDIM ROSSIN",
+          "latitude": -22.9311,
+          "longitude": -47.1641,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. LAIS BERTONI PEREIRA",
+          "latitude": -22.952,
+          "longitude": -47.1146,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PADRE ANTONIO MOBILI",
+          "latitude": -22.9601,
+          "longitude": -47.2169,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "E.E. PROF. ÁLVARO COTOMACCI",
+          "latitude": -22.9493,
+          "longitude": -47.1798,
+          "quantidadeVotos": 40
+        },
+        {
+          "nome": "E.E. PROF. ANDRÉ FORT",
+          "latitude": -22.9274,
+          "longitude": -47.1053,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "E.E. PROF ANTONIO VILELA JÚNIOR",
+          "latitude": -22.912,
+          "longitude": -47.0653,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROF. CARLOS FRANCISCO DE PAULA",
+          "latitude": -22.9272,
+          "longitude": -47.0892,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "E.E. PROF. ÉLCIO ANTONIO SELMI (RES. COSMOS)",
+          "latitude": -22.9486,
+          "longitude": -47.1591,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROFª IDALINA CALDEIRA DE SOUZA PEREIRA - PQ ITAJAÍ II",
+          "latitude": -22.9618,
+          "longitude": -47.1895,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROF. JOSÉ CARLOS DE ATALIBA NOGUEIRA",
+          "latitude": -22.9486,
+          "longitude": -47.1826,
+          "quantidadeVotos": 16
+        },
+        {
+          "nome": "E.E. PROF. NORBERTO DE SOUZA PINTO",
+          "latitude": -22.9324,
+          "longitude": -47.1117,
+          "quantidadeVotos": 19
+        },
+        {
+          "nome": "E.E. PROFA. ROSINA FRAZATTO DOS SANTOS",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 29
+        },
+        {
+          "nome": "E.E. RUY RODRIGUEZ",
+          "latitude": -22.958,
+          "longitude": -47.1915,
+          "quantidadeVotos": 6
+        },
+        {
+          "nome": "E.E. SÃO JUDAS TADEU",
+          "latitude": -22.9372,
+          "longitude": -47.1346,
+          "quantidadeVotos": 31
+        },
+        {
+          "nome": "E.E. SEBASTIÃO RAMOS NOGUEIRA",
+          "latitude": -22.9172,
+          "longitude": -47.0802,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. SOPHIA VELTER SALGADO",
+          "latitude": -22.9049,
+          "longitude": -47.0835,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. VÍTOR MEIRELES",
+          "latitude": -22.8605,
+          "longitude": -47.1635,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. WILSON BRANDÃO TOFFANO",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 5
+        },
+        {
+          "nome": "EMEF. CAIC ZEFERINO VAZ",
+          "latitude": -22.9462,
+          "longitude": -47.1205,
+          "quantidadeVotos": 11
+        },
+        {
+          "nome": "EMEF. DR. EDSON LUÍS CHAVES",
+          "latitude": -22.9328,
+          "longitude": -47.1782,
+          "quantidadeVotos": 6
+        },
+        {
+          "nome": "EMEF. PADRE MELICO CÂNDIDO BARBOSA",
+          "latitude": -22.9347,
+          "longitude": -47.1188,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "EMEF. PE. EMILIO MIOTTI",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF PROFª CLOTILDE BARRAQUET VON ZUBEN",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 7
+        },
+        {
+          "nome": "EMEF VIOLETA DÓRIA LINS",
+          "latitude": -22.9335,
+          "longitude": -47.096,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EMPG PADRE LEÃO VALLERIE",
+          "latitude": -22.9003,
+          "longitude": -47.0898,
+          "quantidadeVotos": 8
+        },
+        {
+          "nome": "EMPG PROF VICENTE RAO",
+          "latitude": -22.9232,
+          "longitude": -47.0851,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "ESCOLA SENAI ROBERTO MANGE",
+          "latitude": -22.9139,
+          "longitude": -47.0682,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "INSTITUTO JULIO CHEVALIER",
+          "latitude": -22.9076,
+          "longitude": -47.0788,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "CEMEI JOÃO BATISTA FILHO - BOA VISTA",
+          "latitude": -22.8859,
+          "longitude": -47.1282,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "COLÉGIO BÁSICO DE CAMPINAS",
+          "latitude": -22.8953,
+          "longitude": -47.0926,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "COLÉGIO DOCTUS - UNIDADE CHAPADÃO",
+          "latitude": -22.8941,
+          "longitude": -47.0855,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "COLÉGIO PROVECTO",
+          "latitude": -22.9078,
+          "longitude": -47.0967,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EDUCAÇÃO E CULTURA EDUCAP JÚNIOR LTDA",
+          "latitude": -22.8815,
+          "longitude": -47.0695,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE ANTÔNIO CARLOS PACHECO E SILVA",
+          "latitude": -22.8968,
+          "longitude": -47.156,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE BARÃO ATALIBA NOGUEIRA",
+          "latitude": -22.9039,
+          "longitude": -47.0994,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE DOM JOÃO NERY",
+          "latitude": -22.8959,
+          "longitude": -47.0825,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EE DOUTOR MÁRIO NATIVIDADE",
+          "latitude": -22.9126,
+          "longitude": -47.1129,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EE JORNALISTA ROBERTO MARINHO",
+          "latitude": -22.8646,
+          "longitude": -47.1427,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "EE MARECHAL MALLET",
+          "latitude": -22.8877,
+          "longitude": -47.0827,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EE MIGUEL VICENTE CURY",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 3
+        },
+        {
+          "nome": "EE PROFESSOR ALBERTO MARTINS",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "EE PROFESSOR ARY MONTEIRO GALVAO",
+          "latitude": -22.8959,
+          "longitude": -47.1037,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE PROFESSOR CARLOS CRISTOVAM ZINK",
+          "latitude": -22.8861,
+          "longitude": -47.125,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE PROFESSOR CARLOS LENCASTRE",
+          "latitude": -22.9075,
+          "longitude": -47.1136,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EE PROFESSOR DJALMA OCTAVIANO",
+          "latitude": -22.9189,
+          "longitude": -47.1049,
+          "quantidadeVotos": 6
+        },
+        {
+          "nome": "EE PROFESSOR DOUTOR PAULO MANGABEIRA ALBERNAZ",
+          "latitude": -22.8533,
+          "longitude": -47.1614,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EE PROFESSOR FABIO FARIA DE SYLLOS",
+          "latitude": -22.9049,
+          "longitude": -47.0992,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE PROFESSOR HILDEBRANDO SIQUEIRA",
+          "latitude": -22.8886,
+          "longitude": -47.11,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EE PROFESSOR JOAO FIORELO REGINATO",
+          "latitude": -22.8712,
+          "longitude": -47.1518,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE PROFESSOR LUIS TADEU FACION",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE PROFESSOR MARCELINO VELEZ",
+          "latitude": -22.857,
+          "longitude": -47.155,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE PROFESSOR MESSIAS GONÇALVES TEIXEIRA",
+          "latitude": -22.8559,
+          "longitude": -47.156,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EE PROFESSOR VITORIO JOSE A. ZAMARION",
+          "latitude": -22.9123,
+          "longitude": -47.0953,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE PROFESSORA LEONOR ZULHKE FALSON",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE PROFESSORA MARIA ISABEL GUIDICE A. CAVALCANTI",
+          "latitude": -22.8953,
+          "longitude": -47.1449,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE REVERENDO PROFESSOR JOSE CARLOS NOGUEIRA",
+          "latitude": -22.889,
+          "longitude": -47.1229,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF DOUTOR JOAO ALVES DOS SANTOS",
+          "latitude": -22.8846,
+          "longitude": -47.1448,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF PADRE DOMINGOS ZATTI",
+          "latitude": -23.0058,
+          "longitude": -47.046,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EMEF PADRE FRANCISCO SILVA",
+          "latitude": -22.9155,
+          "longitude": -47.1085,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EMEF PROFESSORA SYLVIA SIMOES MAGRO",
+          "latitude": -22.9268,
+          "longitude": -47.124,
+          "quantidadeVotos": 3
+        },
+        {
+          "nome": "EMEI BENJAMIN CONSTANT",
+          "latitude": -22.9017,
+          "longitude": -47.1042,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEI BOLINHA DE MEL",
+          "latitude": -22.8855,
+          "longitude": -47.1064,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEI CONEGO MANOEL GARCIA",
+          "latitude": -22.897,
+          "longitude": -47.0789,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEI PAPAI NOEL",
+          "latitude": -22.8906,
+          "longitude": -47.145,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEI PROFESSOR JORGE LEME - PADRE ANCHIETA II",
+          "latitude": -22.8677,
+          "longitude": -47.1533,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEI PROFESSORA HERMINA RICCI",
+          "latitude": -22.9147,
+          "longitude": -47.1151,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "EMEI RECANTO DAS CRIANCAS",
+          "latitude": -22.9157,
+          "longitude": -47.1101,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEI REGENTE FEIJO",
+          "latitude": -22.8913,
+          "longitude": -47.1205,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "COLÉGIO ILLUMINARE",
+          "latitude": -22.883,
+          "longitude": -46.9716,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "COLÉGIO VERTICAL",
+          "latitude": -22.8806,
+          "longitude": -46.9704,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. BENTO QUIRINO",
+          "latitude": -22.8873,
+          "longitude": -47.0483,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. CRISTIANO VOLKART",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. DOUTOR TOMAS ALVES",
+          "latitude": -22.8776,
+          "longitude": -46.9674,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "E.E. DR. ANTÔNIO CARLOS COUTO DE BARROS",
+          "latitude": -22.8886,
+          "longitude": -46.976,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. FRANCISCO BARRETO LEME",
+          "latitude": -22.8902,
+          "longitude": -46.9428,
+          "quantidadeVotos": 200
+        },
+        {
+          "nome": "E.E. JÚLIA LUIZ RUETE",
+          "latitude": -22.9176,
+          "longitude": -47.0221,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "E.E. MONSENHOR LUÍS GONZAGA DE MOURA",
+          "latitude": -22.8847,
+          "longitude": -47.0454,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROFESSOR ALBERTO MEDALJON",
+          "latitude": -22.8981,
+          "longitude": -47.0244,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROFESSOR CORIOLANO MONTEIRO",
+          "latitude": -22.9289,
+          "longitude": -47.0284,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROFESSOR JOAQUIM FERREIRA LIMA",
+          "latitude": -22.8739,
+          "longitude": -47.0268,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROFESSORA CECÍLIA PEREIRA",
+          "latitude": -22.915,
+          "longitude": -47.033,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EM. LOURENÇO BELLOCHIO",
+          "latitude": -22.8769,
+          "longitude": -47.0288,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EM. PRESIDENTE FLORIANO PEIXOTO",
+          "latitude": -22.9232,
+          "longitude": -47.0286,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.M. PROFESSOR CIRO EXCEL MAGRO",
+          "latitude": -22.9169,
+          "longitude": -47.035,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EM RAUL PILA",
+          "latitude": -22.886,
+          "longitude": -47.0302,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF LEONOR SAVI CHAIB",
+          "latitude": -22.9292,
+          "longitude": -47.0231,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF ORLANDO CARPINO",
+          "latitude": -22.9231,
+          "longitude": -47.0378,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF PROFESSORA ANGELA CURY ZAKIA",
+          "latitude": -22.871,
+          "longitude": -46.9589,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "ESCOLA ASTHER ESCOLA DE EDUCAÇÃO INFANTIL E PRIMEIRO GRAU",
+          "latitude": -22.9186,
+          "longitude": -47.0442,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "ESCOLA COMUNITÁRIA DE CAMPINAS",
+          "latitude": -22.8938,
+          "longitude": -47.0069,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "SOCIEDADE EDUC. SAGRADO CORAÇÃO DE JESUS",
+          "latitude": -22.9063,
+          "longitude": -47.0398,
+          "quantidadeVotos": 1
+        }
+      ]
+    },
+    {
+      "nomeCandidato": "ABRAÃO STREY",
+      "numeroCandidato": "22243",
+      "DescCargo": "Vereador",
+      "escolas": [
+        {
+          "nome": "COLÉGIO DE APLICAÇÃO PIO XII",
+          "latitude": -22.9099,
+          "longitude": -47.0522,
+          "quantidadeVotos": 7
+        },
+        {
+          "nome": "COLÉGIO FRANCISCANO AVE MARIA",
+          "latitude": -22.912,
+          "longitude": -47.0548,
+          "quantidadeVotos": 5
+        },
+        {
+          "nome": "COLÉGIO MADRE CECÍLIA",
+          "latitude": -22.8977,
+          "longitude": -47.0498,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "COLÉGIO OBJETIVO",
+          "latitude": -22.8903,
+          "longitude": -47.0479,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "COLEGIO PROGRESSO CAMPINEIRO",
+          "latitude": -22.8983,
+          "longitude": -47.0558,
+          "quantidadeVotos": 4
+        },
+        {
+          "nome": "EE. CARLOS GOMES",
+          "latitude": -22.8988,
+          "longitude": -47.0586,
+          "quantidadeVotos": 9
+        },
+        {
+          "nome": "E.E. CULTO A CIÊNCIA",
+          "latitude": -22.9008,
+          "longitude": -47.0688,
+          "quantidadeVotos": 11
+        },
+        {
+          "nome": "EE. DONA CASTORINA CAVALHEIRO",
+          "latitude": -22.8925,
+          "longitude": -47.0632,
+          "quantidadeVotos": 4
+        },
+        {
+          "nome": "EE. FRANCISCO GLICÉRIO",
+          "latitude": -22.9061,
+          "longitude": -47.0549,
+          "quantidadeVotos": 5
+        },
+        {
+          "nome": "EE. JOÃO LOURENÇO RODRIGUES",
+          "latitude": -22.9026,
+          "longitude": -47.0488,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "EE. OROZIMBO MAIA",
+          "latitude": -22.9065,
+          "longitude": -47.0679,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EE. PROFESSOR BENEDITO SAMPAIO",
+          "latitude": -22.8999,
+          "longitude": -47.0668,
+          "quantidadeVotos": 3
+        },
+        {
+          "nome": "EE. PROFESSOR JOSÉ VILLAGELIN NETO",
+          "latitude": -22.9158,
+          "longitude": -47.0475,
+          "quantidadeVotos": 7
+        },
+        {
+          "nome": "EMEI PREFEITO JOSÉ PIRES NETO",
+          "latitude": -22.9146,
+          "longitude": -47.0471,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "FACULDADES INTEGRADAS IPEP",
+          "latitude": -22.9098,
+          "longitude": -47.0598,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "SENAC",
+          "latitude": -22.899,
+          "longitude": -47.0612,
+          "quantidadeVotos": 4
+        },
+        {
+          "nome": "USF - UNIV. SÃO FRANCISCO",
+          "latitude": -22.8943,
+          "longitude": -47.0502,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "CEI MARIA BEATRIZ CARVALHO MOREIRA",
+          "latitude": -22.9381,
+          "longitude": -47.0408,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "COLÉGIO DOM BARRETO",
+          "latitude": -22.9196,
+          "longitude": -47.0535,
+          "quantidadeVotos": 4
+        },
+        {
+          "nome": "EE. ÁUREA ANUNCIAÇÃO AMÉRICO DE GODOY",
+          "latitude": -22.9324,
+          "longitude": -47.0156,
+          "quantidadeVotos": 5
+        },
+        {
+          "nome": "EE. DEPUTADO JAMIL GADIA",
+          "latitude": -22.944,
+          "longitude": -47.0572,
+          "quantidadeVotos": 3
+        },
+        {
+          "nome": "EE. DOM BARRETO",
+          "latitude": -22.9159,
+          "longitude": -47.0583,
+          "quantidadeVotos": 3
+        },
+        {
+          "nome": "EE. DR. DISNEI FRANCISCO SCORNAIENCHI",
+          "latitude": -22.9594,
+          "longitude": -47.0534,
+          "quantidadeVotos": 11
+        },
+        {
+          "nome": "EE. JOÃO GUMERCINDO GUIMARÃES",
+          "latitude": -22.9427,
+          "longitude": -47.0553,
+          "quantidadeVotos": 3
+        },
+        {
+          "nome": "EE. JOSÉ MARIA MATOSINHO",
+          "latitude": -22.9248,
+          "longitude": -47.075,
+          "quantidadeVotos": 9
+        },
+        {
+          "nome": "EE. JÚLIO MESQUITA",
+          "latitude": -22.9331,
+          "longitude": -47.0485,
+          "quantidadeVotos": 3
+        },
+        {
+          "nome": "EE. MONSENHOR EMÍLIO JOSÉ SALIM",
+          "latitude": -22.9245,
+          "longitude": -47.0549,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EE. NELY HELENA ASSIS DE ANDRADE",
+          "latitude": -22.9365,
+          "longitude": -47.0489,
+          "quantidadeVotos": 5
+        },
+        {
+          "nome": "EE. PROCÓPIO FERREIRA",
+          "latitude": -22.9359,
+          "longitude": -47.0422,
+          "quantidadeVotos": 3
+        },
+        {
+          "nome": "EE. PROF. LUIZ GALHARDO",
+          "latitude": -22.9349,
+          "longitude": -47.034,
+          "quantidadeVotos": 5
+        },
+        {
+          "nome": "EE. PROF. MILTON DE TOLOSA",
+          "latitude": -22.9272,
+          "longitude": -47.0602,
+          "quantidadeVotos": 3
+        },
+        {
+          "nome": "E.E. PROF. PAULO LUIZ DECOURT",
+          "latitude": -22.9501,
+          "longitude": -47.033,
+          "quantidadeVotos": 4
+        },
+        {
+          "nome": "EMEF. AVELINO CANAZZA",
+          "latitude": -22.9489,
+          "longitude": -47.024,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EMEF. ELVIRA MURARO",
+          "latitude": -22.9319,
+          "longitude": -47.023,
+          "quantidadeVotos": 4
+        },
+        {
+          "nome": "EMEF. FRANCISCO PONZIO SOBRINHO",
+          "latitude": -22.9351,
+          "longitude": -47.0329,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF. GENY RODRIGUES",
+          "latitude": -22.9202,
+          "longitude": -47.0762,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "EMEF. JÚLIO MESQUITA FILHO",
+          "latitude": -22.947,
+          "longitude": -47.025,
+          "quantidadeVotos": 8
+        },
+        {
+          "nome": "EMEF. MARIA LUIZA POMPEU DE CAMARGO",
+          "latitude": -22.9404,
+          "longitude": -47.0259,
+          "quantidadeVotos": 4
+        },
+        {
+          "nome": "EMEF. PRESIDENTE HUMBERTO DE ALENCAR CASTELO BRANCO",
+          "latitude": -22.9363,
+          "longitude": -47.062,
+          "quantidadeVotos": 4
+        },
+        {
+          "nome": "EMEF. PROFESSORA ANÁLIA FERRAZ COSTA COUTO",
+          "latitude": -22.9426,
+          "longitude": -47.0362,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEI. PRESIDENTE CAMPOS SALLES",
+          "latitude": -22.9482,
+          "longitude": -47.0561,
+          "quantidadeVotos": 4
+        },
+        {
+          "nome": "EMEI. PROFº HILÁRIO PEREIRA MAGRO JÚNIOR",
+          "latitude": -22.927,
+          "longitude": -47.0498,
+          "quantidadeVotos": 4
+        },
+        {
+          "nome": "UNIP - UNIVERSIDADE PAULISTA - CAMPUS VITALE",
+          "latitude": -22.9221,
+          "longitude": -47.0687,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "UNIP - UNIVERSIDADE PAULISTA DE CAMPINAS - CAMPUS SWIFT",
+          "latitude": -22.9269,
+          "longitude": -47.038,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "UNIVERSIDADE SÃO FRANCISCO",
+          "latitude": -22.9344,
+          "longitude": -47.0353,
+          "quantidadeVotos": 4
+        },
+        {
+          "nome": "CASA MAESTRO CARLOS GOMES - CENTRO DE ATENDIMENTO SÓCIOEDUCATIVO AO AD",
+          "latitude": -22.8575,
+          "longitude": -47.1091,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "CENTRO ESTADUAL DE EDUCAÇÃO DE JOVENS E ADULTOS PAULO DECOURT",
+          "latitude": -22.8575,
+          "longitude": -47.0425,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "E.E. ARTHUR SEGURADO",
+          "latitude": -22.8794,
+          "longitude": -47.0735,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. BARÃO GERALDO DE REZENDE",
+          "latitude": -22.8224,
+          "longitude": -47.084,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. CEL. FIRMINO GONÇALVES DA SILVEIRA",
+          "latitude": -22.8586,
+          "longitude": -47.0359,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "E.E. DR. TELÊMACO PAIOLI MELGES",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E .FRANCISCO ÁLVARES",
+          "latitude": -22.7905,
+          "longitude": -47.0814,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "E.E. JOSÉ PEDRO DE OLIVEIRA",
+          "latitude": -22.8228,
+          "longitude": -47.0804,
+          "quantidadeVotos": 3
+        },
+        {
+          "nome": "EE. MOACYR SANTOS DE CAMPOS",
+          "latitude": -22.8482,
+          "longitude": -47.0411,
+          "quantidadeVotos": 4
+        },
+        {
+          "nome": "E.E. PROF. ADALBERTO NASCIMENTO",
+          "latitude": -22.8832,
+          "longitude": -47.0534,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "E.E. PROF. ADALBERTO PRADO E SILVA",
+          "latitude": -22.8543,
+          "longitude": -47.0711,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "E.E. PROF. ADIWALDE DE OLIVEIRA COELHO",
+          "latitude": -22.8833,
+          "longitude": -47.0542,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROF. ANÍBAL DE FREITAS",
+          "latitude": -22.8881,
+          "longitude": -47.0629,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROF. DANTE ALIGHIERI VITA",
+          "latitude": -22.848,
+          "longitude": -47.0523,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROF. DR. CARLOS DE ARAÚJO PIMENTEL",
+          "latitude": -22.8588,
+          "longitude": -47.0617,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "E.E. PROF. GUSTAVO MARCONDES",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 3
+        },
+        {
+          "nome": "E.E. PROF. HILTON FEDERICI",
+          "latitude": -22.818,
+          "longitude": -47.0917,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "E.E. PROF. LUIZ GONZAGA HORTA LISBOA",
+          "latitude": -22.8136,
+          "longitude": -47.034,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "E.E. PROF. NEWTON SILVA TELLES",
+          "latitude": -22.8613,
+          "longitude": -47.0671,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "E.E. PROF. ROQUE MAGALHÃES BARROS",
+          "latitude": -22.9384,
+          "longitude": -47.0851,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "E.E. PROF. UACURY RIBEIRO DE ASSIS BASTOS",
+          "latitude": -22.7599,
+          "longitude": -46.9849,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "E.E. PROFA. ANA RITA GODINHO POUSA",
+          "latitude": -22.878,
+          "longitude": -47.0408,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "E.E. PROFA. CASTINAUTA DE B.M. ALBUQUERQUE",
+          "latitude": -22.8497,
+          "longitude": -47.117,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "E.E. PROFA. DORA MARIA MACIEL DE CASTRO KANSO",
+          "latitude": -22.7516,
+          "longitude": -47.0569,
+          "quantidadeVotos": 4
+        },
+        {
+          "nome": "E.E. PROFA. EUNICE VIRGÍNIA RAMOS NAVERO",
+          "latitude": -22.8435,
+          "longitude": -47.0222,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE REGINA COUTINHO NOGUEIRA",
+          "latitude": -22.8714,
+          "longitude": -47.041,
+          "quantidadeVotos": 3
+        },
+        {
+          "nome": "EE 31 DE MARCO",
+          "latitude": -22.8536,
+          "longitude": -47.1081,
+          "quantidadeVotos": 3
+        },
+        {
+          "nome": "EEPG PROFA MARIA ALICE COLEVATI RODRIGUES",
+          "latitude": -22.8228,
+          "longitude": -47.0915,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EEPG SERGIO PEREIRA PORTO - FISICO",
+          "latitude": -22.8124,
+          "longitude": -47.0684,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF EDSON LUIZ LIMA SOUTO",
+          "latitude": -22.8409,
+          "longitude": -47.1565,
+          "quantidadeVotos": 5
+        },
+        {
+          "nome": "EMEI AGOSTINHO PATTARO",
+          "latitude": -22.8232,
+          "longitude": -47.0816,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEI RECANTO DA ALEGRIA",
+          "latitude": -22.8511,
+          "longitude": -47.0347,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EMPG PE JOSE NARCISO VIEIRA EHREMBERG",
+          "latitude": -22.8465,
+          "longitude": -47.1152,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EMPG PROFA DULCE BENTO NASCIMENTO",
+          "latitude": -22.7922,
+          "longitude": -47.0712,
+          "quantidadeVotos": 3
+        },
+        {
+          "nome": "ESCOLA SALESIANA SAO JOSE",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "ETECAP",
+          "latitude": -22.8726,
+          "longitude": -47.0899,
+          "quantidadeVotos": 5
+        },
+        {
+          "nome": "FACULDADE ANHANGUERA DE CAMPINAS - UNIDADE 3 (FAC)",
+          "latitude": -22.8518,
+          "longitude": -47.0436,
+          "quantidadeVotos": 10
+        },
+        {
+          "nome": "INSTITUTO EDUCACIONAL JAIME KRATZ",
+          "latitude": -22.8685,
+          "longitude": -47.06,
+          "quantidadeVotos": 3
+        },
+        {
+          "nome": "LICEU SALESIANO NOSSA SENHORA AUXILIADORA",
+          "latitude": -22.8833,
+          "longitude": -47.0586,
+          "quantidadeVotos": 8
+        },
+        {
+          "nome": "SEIAS - INSTITUTO EDUCACIONAL IMACULADA",
+          "latitude": -22.8901,
+          "longitude": -47.0622,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "SOCIEDADE DE INSTRUÇÃO E LEITURA COL. RIO BRANCO CPS",
+          "latitude": -22.8266,
+          "longitude": -47.0756,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "UNICAMP",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 4
+        },
+        {
+          "nome": "UNIVERSIDADE PRESBITERIANA MACKENZIE",
+          "latitude": -22.8854,
+          "longitude": -47.0685,
+          "quantidadeVotos": 3
+        },
+        {
+          "nome": "CEMEI ANNITA AFFONSO FERREIRA",
+          "latitude": -22.9573,
+          "longitude": -47.0879,
+          "quantidadeVotos": 5
+        },
+        {
+          "nome": "CEMEI CATARINA MILANI MANARINI",
+          "latitude": -22.9532,
+          "longitude": -47.0904,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "CEMEI IRMÃ DULCE",
+          "latitude": -22.964,
+          "longitude": -47.0969,
+          "quantidadeVotos": 3
+        },
+        {
+          "nome": "CEMEI JOSÉ FIDELIS",
+          "latitude": -23.0041,
+          "longitude": -47.1092,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "CEMEI MANOEL ALVES DA SILVA",
+          "latitude": -22.9759,
+          "longitude": -47.1325,
+          "quantidadeVotos": 9
+        },
+        {
+          "nome": "CEMEI MARILENE CABRAL",
+          "latitude": -22.9712,
+          "longitude": -47.1244,
+          "quantidadeVotos": 23
+        },
+        {
+          "nome": "CEMEI PROFA. MARIA ISABEL BALTAR DA ROCHA RODRIGUES",
+          "latitude": -22.95,
+          "longitude": -47.0815,
+          "quantidadeVotos": 3
+        },
+        {
+          "nome": "CIMEI PROFESSORA THERMUTIS ARAÚJO MACHADO",
+          "latitude": -22.9738,
+          "longitude": -47.1194,
+          "quantidadeVotos": 16
+        },
+        {
+          "nome": "COLÉGIO JARDINS MEDITERRÂNEO",
+          "latitude": -22.9353,
+          "longitude": -47.0915,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "CRESCER INSTITUTO EDUCACIONAL",
+          "latitude": -22.9409,
+          "longitude": -47.1023,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "E.E. BENEDICTA DE SALLES PIMENTEL WUTKE",
+          "latitude": -23.0002,
+          "longitude": -47.1078,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "E.E. CONJUNTO VIDA NOVA III",
+          "latitude": -22.9732,
+          "longitude": -47.1774,
+          "quantidadeVotos": 12
+        },
+        {
+          "nome": "E.E. DEPUTADO EDUARDO BARNABÉ",
+          "latitude": -22.9788,
+          "longitude": -47.1386,
+          "quantidadeVotos": 20
+        },
+        {
+          "nome": "E.E. DIC I",
+          "latitude": -22.9788,
+          "longitude": -47.1389,
+          "quantidadeVotos": 6
+        },
+        {
+          "nome": "E.E. DONA VENERANDA MARTINS SIQUEIRA",
+          "latitude": -22.9653,
+          "longitude": -47.1449,
+          "quantidadeVotos": 47
+        },
+        {
+          "nome": "E.E. DR. ANTONIO PIRES BARBOSA",
+          "latitude": -22.9545,
+          "longitude": -47.1129,
+          "quantidadeVotos": 11
+        },
+        {
+          "nome": "EE. DR ENÉAS CEZAR FERREIRA",
+          "latitude": -22.9838,
+          "longitude": -47.119,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EE. DR. MANOEL ALEXANDRE MARCONDES MACHADO",
+          "latitude": -22.9617,
+          "longitude": -47.1189,
+          "quantidadeVotos": 25
+        },
+        {
+          "nome": "E.E. ELISEU NARCISO",
+          "latitude": -22.9784,
+          "longitude": -47.1226,
+          "quantidadeVotos": 13
+        },
+        {
+          "nome": "E.E. FRANCISCO DE ASSIS",
+          "latitude": -23.0294,
+          "longitude": -47.1008,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "E.E. JORNALISTA CECÍLIA DE GODOY CAMARGO",
+          "latitude": -22.9806,
+          "longitude": -47.1276,
+          "quantidadeVotos": 15
+        },
+        {
+          "nome": "E.E. ORLANDO SIGNORELLI",
+          "latitude": -22.9784,
+          "longitude": -47.1322,
+          "quantidadeVotos": 22
+        },
+        {
+          "nome": "E.E. PADRE JOSÉ DOS SANTOS",
+          "latitude": -22.939,
+          "longitude": -47.1027,
+          "quantidadeVotos": 14
+        },
+        {
+          "nome": "E.E. PEDRO SALVETTI NETTO",
+          "latitude": -22.953,
+          "longitude": -47.1125,
+          "quantidadeVotos": 3
+        },
+        {
+          "nome": "E.E. PREFEITO ANTONIO DA COSTA SANTOS",
+          "latitude": -22.9916,
+          "longitude": -47.1389,
+          "quantidadeVotos": 7
+        },
+        {
+          "nome": "E.E. PROF. BENEVENUTO TORRES",
+          "latitude": -22.9674,
+          "longitude": -47.1499,
+          "quantidadeVotos": 19
+        },
+        {
+          "nome": "EE PROF. CELESTINO DE CAMPOS",
+          "latitude": -22.9395,
+          "longitude": -47.0905,
+          "quantidadeVotos": 7
+        },
+        {
+          "nome": "E.E. PROF. FRANCISCO RIBEIRO SAMPAIO",
+          "latitude": -22.9761,
+          "longitude": -47.0868,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROF. LUIZ GONZAGA DA COSTA",
+          "latitude": -22.9453,
+          "longitude": -47.098,
+          "quantidadeVotos": 8
+        },
+        {
+          "nome": "E.E. PROF. NEWTON PIMENTA NEVES",
+          "latitude": -22.9755,
+          "longitude": -47.128,
+          "quantidadeVotos": 39
+        },
+        {
+          "nome": "E.E. PROFA. CELESTE PALANDI DE MELLO",
+          "latitude": -23.0304,
+          "longitude": -47.1157,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "E.E. PROFA. CONCEIÇÃO RIBEIRO",
+          "latitude": -22.9668,
+          "longitude": -47.1493,
+          "quantidadeVotos": 35
+        },
+        {
+          "nome": "E.E. PROFA. MARIA DE LOURDES CAMPOS FREIRE MARQUES",
+          "latitude": -22.9671,
+          "longitude": -47.1132,
+          "quantidadeVotos": 7
+        },
+        {
+          "nome": "E.E. PROFA. MARIA JULIETA DE GODÓI CARTEZANI",
+          "latitude": -22.9453,
+          "longitude": -47.0976,
+          "quantidadeVotos": 6
+        },
+        {
+          "nome": "E.E. PROFA. ROSENTINA FARIA SYLLOS",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 12
+        },
+        {
+          "nome": "EE PROFESSOR DR PAUL EUGENE CHARBONNEAU",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 11
+        },
+        {
+          "nome": "EE. PROFESSOR MÁRIO JUNQUEIRA DA SILVA",
+          "latitude": -22.9824,
+          "longitude": -47.1193,
+          "quantidadeVotos": 16
+        },
+        {
+          "nome": "EE PROFESSOR PAULO JOSE OCTAVIANO",
+          "latitude": -22.988,
+          "longitude": -47.1526,
+          "quantidadeVotos": 15
+        },
+        {
+          "nome": "EE. PROFESSOR SALVADOR BOVE",
+          "latitude": -22.9834,
+          "longitude": -47.1017,
+          "quantidadeVotos": 5
+        },
+        {
+          "nome": "EE RESIDENCIAL SÃO JOSÉ",
+          "latitude": -22.9655,
+          "longitude": -47.1619,
+          "quantidadeVotos": 24
+        },
+        {
+          "nome": "EE SAN DIEGO",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 5
+        },
+        {
+          "nome": "EE SARGENTO JOAQUIM PEDROSO",
+          "latitude": -22.9764,
+          "longitude": -47.1411,
+          "quantidadeVotos": 5
+        },
+        {
+          "nome": "EE THEREZINA DA FONSECA PARES",
+          "latitude": -22.9547,
+          "longitude": -47.0918,
+          "quantidadeVotos": 10
+        },
+        {
+          "nome": "EE WASHINGTON JOSE DE LACERDA ORTIZ",
+          "latitude": -22.9358,
+          "longitude": -47.0869,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EMEF CARMELINA DE CASTRO RINCO",
+          "latitude": -22.9689,
+          "longitude": -47.1345,
+          "quantidadeVotos": 6
+        },
+        {
+          "nome": "EMEF CORREA DE MELLO",
+          "latitude": -22.9688,
+          "longitude": -47.1388,
+          "quantidadeVotos": 20
+        },
+        {
+          "nome": "EMEF GENERAL HUMBERTO DE SOUZA MELO",
+          "latitude": -22.9562,
+          "longitude": -47.0932,
+          "quantidadeVotos": 6
+        },
+        {
+          "nome": "EMEF MARIA PAVANATTI FAVARO",
+          "latitude": -22.9883,
+          "longitude": -47.145,
+          "quantidadeVotos": 13
+        },
+        {
+          "nome": "EMEF PROF BENEVENUTO FIGUEIREDO TORRES",
+          "latitude": -22.9611,
+          "longitude": -47.0963,
+          "quantidadeVotos": 14
+        },
+        {
+          "nome": "EMEF PROFA ELZA MARIA PELEGRINI DE AGUIAR",
+          "latitude": -22.9746,
+          "longitude": -47.1475,
+          "quantidadeVotos": 40
+        },
+        {
+          "nome": "EMEF VIRGINIA MENDES ANTUNES DE VASCONCELLOS",
+          "latitude": -22.9746,
+          "longitude": -47.1078,
+          "quantidadeVotos": 5
+        },
+        {
+          "nome": "EMEF/EJA PROFA ODILA MAIA ROCHA BRITO",
+          "latitude": -23.0389,
+          "longitude": -47.1056,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EMEI GUILHERME DE ALMEIDA",
+          "latitude": -22.9479,
+          "longitude": -47.0957,
+          "quantidadeVotos": 3
+        },
+        {
+          "nome": "EMEI TANCREDO NEVES",
+          "latitude": -22.9339,
+          "longitude": -47.0923,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "FUNDAÇÃO BRADESCO",
+          "latitude": -22.9993,
+          "longitude": -47.0848,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "NAVE MÃE ANÍSIO ESPÍNOLA TEIXEIRA",
+          "latitude": -23.6691,
+          "longitude": -46.3867,
+          "quantidadeVotos": 3
+        },
+        {
+          "nome": "C.E.I. DR. MANOEL AFFONSO FERREIRA",
+          "latitude": -22.9095,
+          "longitude": -47.0842,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "C.E.I. JARDIM ENCANTADO",
+          "latitude": -22.9232,
+          "longitude": -47.1094,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "C.E.I. JOÃO VIALTA",
+          "latitude": -22.9519,
+          "longitude": -47.1867,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "C.E.I. MARIA DO CARMO DE ABREU SODRÉ (CEMEI 41)",
+          "latitude": -22.9325,
+          "longitude": -47.0944,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "C.E.I. MATILDE AZEVEDO EGÍDIO SETÚBAL",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "E.E. MAJOR ADOLPHO ROSSIN",
+          "latitude": -22.9288,
+          "longitude": -47.1665,
+          "quantidadeVotos": 7
+        },
+        {
+          "nome": "E.E. ANTONIO CARLOS LEMAN (PQ. SÃO BENTO)",
+          "latitude": -22.9664,
+          "longitude": -47.1984,
+          "quantidadeVotos": 4
+        },
+        {
+          "nome": "E.E. CAMPO GRANDE II",
+          "latitude": -22.9475,
+          "longitude": -47.1867,
+          "quantidadeVotos": 6
+        },
+        {
+          "nome": "E.E. CARLOS ALBERTO GALHIEGO",
+          "latitude": -22.936,
+          "longitude": -47.1876,
+          "quantidadeVotos": 10
+        },
+        {
+          "nome": "E.E. CONSUELO FREIRE BRANDÃO",
+          "latitude": -22.9434,
+          "longitude": -47.1001,
+          "quantidadeVotos": 5
+        },
+        {
+          "nome": "E.E. DONA VALENTINA S. DE O. FIGUEIREDO",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 3
+        },
+        {
+          "nome": "E.E. DR. NEWTON OPPERMANN",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 5
+        },
+        {
+          "nome": "E.E. ELVIRA PARDO MEO MURARO",
+          "latitude": -22.9348,
+          "longitude": -47.0727,
+          "quantidadeVotos": 4
+        },
+        {
+          "nome": "E.E. ESCRITORA RACHEL DE QUEIRÓZ",
+          "latitude": -22.9453,
+          "longitude": -47.1181,
+          "quantidadeVotos": 10
+        },
+        {
+          "nome": "E.E. FELIPE CANTUSIO",
+          "latitude": -22.9213,
+          "longitude": -47.0857,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "E.E. GLÓRIA APARECIDA ROSA VIANA",
+          "latitude": -22.9355,
+          "longitude": -47.1546,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. GUIDO SEGALHO",
+          "latitude": -22.9096,
+          "longitude": -47.084,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "E.E. HERCY MORAES",
+          "latitude": -22.9278,
+          "longitude": -47.1139,
+          "quantidadeVotos": 13
+        },
+        {
+          "nome": "E.E. HUGO PENTEADO TEIXEIRA",
+          "latitude": -22.9591,
+          "longitude": -47.2004,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "E.E. JARDIM ROSSIN",
+          "latitude": -22.9311,
+          "longitude": -47.1641,
+          "quantidadeVotos": 3
+        },
+        {
+          "nome": "E.E. LAIS BERTONI PEREIRA",
+          "latitude": -22.952,
+          "longitude": -47.1146,
+          "quantidadeVotos": 7
+        },
+        {
+          "nome": "E.E. PADRE ANTONIO MOBILI",
+          "latitude": -22.9601,
+          "longitude": -47.2169,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "E.E. PROF. ÁLVARO COTOMACCI",
+          "latitude": -22.9493,
+          "longitude": -47.1798,
+          "quantidadeVotos": 3
+        },
+        {
+          "nome": "E.E. PROF. ANDRÉ FORT",
+          "latitude": -22.9274,
+          "longitude": -47.1053,
+          "quantidadeVotos": 3
+        },
+        {
+          "nome": "E.E. PROF ANTONIO VILELA JÚNIOR",
+          "latitude": -22.912,
+          "longitude": -47.0653,
+          "quantidadeVotos": 4
+        },
+        {
+          "nome": "E.E. PROF. CARLOS FRANCISCO DE PAULA",
+          "latitude": -22.9272,
+          "longitude": -47.0892,
+          "quantidadeVotos": 5
+        },
+        {
+          "nome": "E.E. PROF. ÉLCIO ANTONIO SELMI (RES. COSMOS)",
+          "latitude": -22.9486,
+          "longitude": -47.1591,
+          "quantidadeVotos": 3
+        },
+        {
+          "nome": "E.E. PROFª IDALINA CALDEIRA DE SOUZA PEREIRA - PQ ITAJAÍ II",
+          "latitude": -22.9618,
+          "longitude": -47.1895,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "E.E. PROF. JOSÉ CARLOS DE ATALIBA NOGUEIRA",
+          "latitude": -22.9486,
+          "longitude": -47.1826,
+          "quantidadeVotos": 3
+        },
+        {
+          "nome": "E.E. PROF. NORBERTO DE SOUZA PINTO",
+          "latitude": -22.9324,
+          "longitude": -47.1117,
+          "quantidadeVotos": 10
+        },
+        {
+          "nome": "E.E. PROFA. ROSINA FRAZATTO DOS SANTOS",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 7
+        },
+        {
+          "nome": "E.E. RUY RODRIGUEZ",
+          "latitude": -22.958,
+          "longitude": -47.1915,
+          "quantidadeVotos": 12
+        },
+        {
+          "nome": "E.E. SÃO JUDAS TADEU",
+          "latitude": -22.9372,
+          "longitude": -47.1346,
+          "quantidadeVotos": 11
+        },
+        {
+          "nome": "E.E. SEBASTIÃO RAMOS NOGUEIRA",
+          "latitude": -22.9172,
+          "longitude": -47.0802,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "E.E. SOPHIA VELTER SALGADO",
+          "latitude": -22.9049,
+          "longitude": -47.0835,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. VÍTOR MEIRELES",
+          "latitude": -22.8605,
+          "longitude": -47.1635,
+          "quantidadeVotos": 5
+        },
+        {
+          "nome": "E.E. WILSON BRANDÃO TOFFANO",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EMEF. CAIC ZEFERINO VAZ",
+          "latitude": -22.9462,
+          "longitude": -47.1205,
+          "quantidadeVotos": 13
+        },
+        {
+          "nome": "EMEF. DR. EDSON LUÍS CHAVES",
+          "latitude": -22.9328,
+          "longitude": -47.1782,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "EMEF. PADRE MELICO CÂNDIDO BARBOSA",
+          "latitude": -22.9347,
+          "longitude": -47.1188,
+          "quantidadeVotos": 8
+        },
+        {
+          "nome": "EMEF. PE. EMILIO MIOTTI",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EMEF PROFª CLOTILDE BARRAQUET VON ZUBEN",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 7
+        },
+        {
+          "nome": "EMEF VIOLETA DÓRIA LINS",
+          "latitude": -22.9335,
+          "longitude": -47.096,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "EMPG PADRE LEÃO VALLERIE",
+          "latitude": -22.9003,
+          "longitude": -47.0898,
+          "quantidadeVotos": 7
+        },
+        {
+          "nome": "EMPG PROF VICENTE RAO",
+          "latitude": -22.9232,
+          "longitude": -47.0851,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "ESCOLA SENAI ROBERTO MANGE",
+          "latitude": -22.9139,
+          "longitude": -47.0682,
+          "quantidadeVotos": 3
+        },
+        {
+          "nome": "INSTITUTO JULIO CHEVALIER",
+          "latitude": -22.9076,
+          "longitude": -47.0788,
+          "quantidadeVotos": 3
+        },
+        {
+          "nome": "CEMEI JOÃO BATISTA FILHO - BOA VISTA",
+          "latitude": -22.8859,
+          "longitude": -47.1282,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "COLÉGIO BÁSICO DE CAMPINAS",
+          "latitude": -22.8953,
+          "longitude": -47.0926,
+          "quantidadeVotos": 5
+        },
+        {
+          "nome": "COLÉGIO DOCTUS - UNIDADE CHAPADÃO",
+          "latitude": -22.8941,
+          "longitude": -47.0855,
+          "quantidadeVotos": 10
+        },
+        {
+          "nome": "COLÉGIO PROVECTO",
+          "latitude": -22.9078,
+          "longitude": -47.0967,
+          "quantidadeVotos": 5
+        },
+        {
+          "nome": "EDUCAÇÃO E CULTURA EDUCAP JÚNIOR LTDA",
+          "latitude": -22.8815,
+          "longitude": -47.0695,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EE ANTÔNIO CARLOS PACHECO E SILVA",
+          "latitude": -22.8968,
+          "longitude": -47.156,
+          "quantidadeVotos": 4
+        },
+        {
+          "nome": "EE BARÃO ATALIBA NOGUEIRA",
+          "latitude": -22.9039,
+          "longitude": -47.0994,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EE DOM JOÃO NERY",
+          "latitude": -22.8959,
+          "longitude": -47.0825,
+          "quantidadeVotos": 3
+        },
+        {
+          "nome": "EE DOUTOR MÁRIO NATIVIDADE",
+          "latitude": -22.9126,
+          "longitude": -47.1129,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "EE JORNALISTA ROBERTO MARINHO",
+          "latitude": -22.8646,
+          "longitude": -47.1427,
+          "quantidadeVotos": 6
+        },
+        {
+          "nome": "EE MARECHAL MALLET",
+          "latitude": -22.8877,
+          "longitude": -47.0827,
+          "quantidadeVotos": 7
+        },
+        {
+          "nome": "EE MIGUEL VICENTE CURY",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 4
+        },
+        {
+          "nome": "EE PROFESSOR ALBERTO MARTINS",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "EE PROFESSOR ARY MONTEIRO GALVAO",
+          "latitude": -22.8959,
+          "longitude": -47.1037,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE PROFESSOR CARLOS CRISTOVAM ZINK",
+          "latitude": -22.8861,
+          "longitude": -47.125,
+          "quantidadeVotos": 8
+        },
+        {
+          "nome": "EE PROFESSOR CARLOS LENCASTRE",
+          "latitude": -22.9075,
+          "longitude": -47.1136,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "EE PROFESSOR DJALMA OCTAVIANO",
+          "latitude": -22.9189,
+          "longitude": -47.1049,
+          "quantidadeVotos": 8
+        },
+        {
+          "nome": "EE PROFESSOR DOUTOR PAULO MANGABEIRA ALBERNAZ",
+          "latitude": -22.8533,
+          "longitude": -47.1614,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE PROFESSOR FABIO FARIA DE SYLLOS",
+          "latitude": -22.9049,
+          "longitude": -47.0992,
+          "quantidadeVotos": 6
+        },
+        {
+          "nome": "EE PROFESSOR HILDEBRANDO SIQUEIRA",
+          "latitude": -22.8886,
+          "longitude": -47.11,
+          "quantidadeVotos": 3
+        },
+        {
+          "nome": "EE PROFESSOR JOAO FIORELO REGINATO",
+          "latitude": -22.8712,
+          "longitude": -47.1518,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EE PROFESSOR LUIS TADEU FACION",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EE PROFESSOR MARCELINO VELEZ",
+          "latitude": -22.857,
+          "longitude": -47.155,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EE PROFESSOR MESSIAS GONÇALVES TEIXEIRA",
+          "latitude": -22.8559,
+          "longitude": -47.156,
+          "quantidadeVotos": 3
+        },
+        {
+          "nome": "EE PROFESSOR VITORIO JOSE A. ZAMARION",
+          "latitude": -22.9123,
+          "longitude": -47.0953,
+          "quantidadeVotos": 3
+        },
+        {
+          "nome": "EE PROFESSORA LEONOR ZULHKE FALSON",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EE PROFESSORA MARIA ISABEL GUIDICE A. CAVALCANTI",
+          "latitude": -22.8953,
+          "longitude": -47.1449,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "EE REVERENDO PROFESSOR JOSE CARLOS NOGUEIRA",
+          "latitude": -22.889,
+          "longitude": -47.1229,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EMEF DOUTOR JOAO ALVES DOS SANTOS",
+          "latitude": -22.8846,
+          "longitude": -47.1448,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "EMEF PADRE DOMINGOS ZATTI",
+          "latitude": -23.0058,
+          "longitude": -47.046,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EMEF PADRE FRANCISCO SILVA",
+          "latitude": -22.9155,
+          "longitude": -47.1085,
+          "quantidadeVotos": 3
+        },
+        {
+          "nome": "EMEF PROFESSORA SYLVIA SIMOES MAGRO",
+          "latitude": -22.9268,
+          "longitude": -47.124,
+          "quantidadeVotos": 5
+        },
+        {
+          "nome": "EMEI BENJAMIN CONSTANT",
+          "latitude": -22.9017,
+          "longitude": -47.1042,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEI BOLINHA DE MEL",
+          "latitude": -22.8855,
+          "longitude": -47.1064,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEI CONEGO MANOEL GARCIA",
+          "latitude": -22.897,
+          "longitude": -47.0789,
+          "quantidadeVotos": 4
+        },
+        {
+          "nome": "EMEI PAPAI NOEL",
+          "latitude": -22.8906,
+          "longitude": -47.145,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EMEI PROFESSOR JORGE LEME - PADRE ANCHIETA II",
+          "latitude": -22.8677,
+          "longitude": -47.1533,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEI PROFESSORA HERMINA RICCI",
+          "latitude": -22.9147,
+          "longitude": -47.1151,
+          "quantidadeVotos": 5
+        },
+        {
+          "nome": "EMEI RECANTO DAS CRIANCAS",
+          "latitude": -22.9157,
+          "longitude": -47.1101,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEI REGENTE FEIJO",
+          "latitude": -22.8913,
+          "longitude": -47.1205,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "COLÉGIO ILLUMINARE",
+          "latitude": -22.883,
+          "longitude": -46.9716,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "COLÉGIO VERTICAL",
+          "latitude": -22.8806,
+          "longitude": -46.9704,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. BENTO QUIRINO",
+          "latitude": -22.8873,
+          "longitude": -47.0483,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "E.E. CRISTIANO VOLKART",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. DOUTOR TOMAS ALVES",
+          "latitude": -22.8776,
+          "longitude": -46.9674,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "E.E. DR. ANTÔNIO CARLOS COUTO DE BARROS",
+          "latitude": -22.8886,
+          "longitude": -46.976,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "E.E. FRANCISCO BARRETO LEME",
+          "latitude": -22.8902,
+          "longitude": -46.9428,
+          "quantidadeVotos": 200
+        },
+        {
+          "nome": "E.E. JÚLIA LUIZ RUETE",
+          "latitude": -22.9176,
+          "longitude": -47.0221,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. MONSENHOR LUÍS GONZAGA DE MOURA",
+          "latitude": -22.8847,
+          "longitude": -47.0454,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROFESSOR ALBERTO MEDALJON",
+          "latitude": -22.8981,
+          "longitude": -47.0244,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROFESSOR CORIOLANO MONTEIRO",
+          "latitude": -22.9289,
+          "longitude": -47.0284,
+          "quantidadeVotos": 4
+        },
+        {
+          "nome": "E.E. PROFESSOR JOAQUIM FERREIRA LIMA",
+          "latitude": -22.8739,
+          "longitude": -47.0268,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "E.E. PROFESSORA CECÍLIA PEREIRA",
+          "latitude": -22.915,
+          "longitude": -47.033,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EM. LOURENÇO BELLOCHIO",
+          "latitude": -22.8769,
+          "longitude": -47.0288,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "EM. PRESIDENTE FLORIANO PEIXOTO",
+          "latitude": -22.9232,
+          "longitude": -47.0286,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "E.M. PROFESSOR CIRO EXCEL MAGRO",
+          "latitude": -22.9169,
+          "longitude": -47.035,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EM RAUL PILA",
+          "latitude": -22.886,
+          "longitude": -47.0302,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "EMEF LEONOR SAVI CHAIB",
+          "latitude": -22.9292,
+          "longitude": -47.0231,
+          "quantidadeVotos": 7
+        },
+        {
+          "nome": "EMEF ORLANDO CARPINO",
+          "latitude": -22.9231,
+          "longitude": -47.0378,
+          "quantidadeVotos": 7
+        },
+        {
+          "nome": "EMEF PROFESSORA ANGELA CURY ZAKIA",
+          "latitude": -22.871,
+          "longitude": -46.9589,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "ESCOLA ASTHER ESCOLA DE EDUCAÇÃO INFANTIL E PRIMEIRO GRAU",
+          "latitude": -22.9186,
+          "longitude": -47.0442,
+          "quantidadeVotos": 6
+        },
+        {
+          "nome": "ESCOLA COMUNITÁRIA DE CAMPINAS",
+          "latitude": -22.8938,
+          "longitude": -47.0069,
+          "quantidadeVotos": 4
+        },
+        {
+          "nome": "SOCIEDADE EDUC. SAGRADO CORAÇÃO DE JESUS",
+          "latitude": -22.9063,
+          "longitude": -47.0398,
+          "quantidadeVotos": 3
+        }
+      ]
+    },
+    {
+      "nomeCandidato": "AC OLIVEIRA",
+      "numeroCandidato": "17077",
+      "DescCargo": "Vereador",
+      "escolas": [
+        {
+          "nome": "COLÉGIO DE APLICAÇÃO PIO XII",
+          "latitude": -22.9099,
+          "longitude": -47.0522,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "COLÉGIO FRANCISCANO AVE MARIA",
+          "latitude": -22.912,
+          "longitude": -47.0548,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "COLÉGIO MADRE CECÍLIA",
+          "latitude": -22.8977,
+          "longitude": -47.0498,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "COLÉGIO OBJETIVO",
+          "latitude": -22.8903,
+          "longitude": -47.0479,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "COLEGIO PROGRESSO CAMPINEIRO",
+          "latitude": -22.8983,
+          "longitude": -47.0558,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE. CARLOS GOMES",
+          "latitude": -22.8988,
+          "longitude": -47.0586,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. CULTO A CIÊNCIA",
+          "latitude": -22.9008,
+          "longitude": -47.0688,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE. DONA CASTORINA CAVALHEIRO",
+          "latitude": -22.8925,
+          "longitude": -47.0632,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE. FRANCISCO GLICÉRIO",
+          "latitude": -22.9061,
+          "longitude": -47.0549,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE. JOÃO LOURENÇO RODRIGUES",
+          "latitude": -22.9026,
+          "longitude": -47.0488,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EE. OROZIMBO MAIA",
+          "latitude": -22.9065,
+          "longitude": -47.0679,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE. PROFESSOR BENEDITO SAMPAIO",
+          "latitude": -22.8999,
+          "longitude": -47.0668,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EE. PROFESSOR JOSÉ VILLAGELIN NETO",
+          "latitude": -22.9158,
+          "longitude": -47.0475,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEI PREFEITO JOSÉ PIRES NETO",
+          "latitude": -22.9146,
+          "longitude": -47.0471,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "FACULDADES INTEGRADAS IPEP",
+          "latitude": -22.9098,
+          "longitude": -47.0598,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "SENAC",
+          "latitude": -22.899,
+          "longitude": -47.0612,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "USF - UNIV. SÃO FRANCISCO",
+          "latitude": -22.8943,
+          "longitude": -47.0502,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "CEI MARIA BEATRIZ CARVALHO MOREIRA",
+          "latitude": -22.9381,
+          "longitude": -47.0408,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "COLÉGIO DOM BARRETO",
+          "latitude": -22.9196,
+          "longitude": -47.0535,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EE. ÁUREA ANUNCIAÇÃO AMÉRICO DE GODOY",
+          "latitude": -22.9324,
+          "longitude": -47.0156,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE. DEPUTADO JAMIL GADIA",
+          "latitude": -22.944,
+          "longitude": -47.0572,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE. DOM BARRETO",
+          "latitude": -22.9159,
+          "longitude": -47.0583,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE. DR. DISNEI FRANCISCO SCORNAIENCHI",
+          "latitude": -22.9594,
+          "longitude": -47.0534,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EE. JOÃO GUMERCINDO GUIMARÃES",
+          "latitude": -22.9427,
+          "longitude": -47.0553,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EE. JOSÉ MARIA MATOSINHO",
+          "latitude": -22.9248,
+          "longitude": -47.075,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE. JÚLIO MESQUITA",
+          "latitude": -22.9331,
+          "longitude": -47.0485,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE. MONSENHOR EMÍLIO JOSÉ SALIM",
+          "latitude": -22.9245,
+          "longitude": -47.0549,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EE. NELY HELENA ASSIS DE ANDRADE",
+          "latitude": -22.9365,
+          "longitude": -47.0489,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EE. PROCÓPIO FERREIRA",
+          "latitude": -22.9359,
+          "longitude": -47.0422,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE. PROF. LUIZ GALHARDO",
+          "latitude": -22.9349,
+          "longitude": -47.034,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EE. PROF. MILTON DE TOLOSA",
+          "latitude": -22.9272,
+          "longitude": -47.0602,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "E.E. PROF. PAULO LUIZ DECOURT",
+          "latitude": -22.9501,
+          "longitude": -47.033,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF. AVELINO CANAZZA",
+          "latitude": -22.9489,
+          "longitude": -47.024,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF. ELVIRA MURARO",
+          "latitude": -22.9319,
+          "longitude": -47.023,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF. FRANCISCO PONZIO SOBRINHO",
+          "latitude": -22.9351,
+          "longitude": -47.0329,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF. GENY RODRIGUES",
+          "latitude": -22.9202,
+          "longitude": -47.0762,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EMEF. JÚLIO MESQUITA FILHO",
+          "latitude": -22.947,
+          "longitude": -47.025,
+          "quantidadeVotos": 3
+        },
+        {
+          "nome": "EMEF. MARIA LUIZA POMPEU DE CAMARGO",
+          "latitude": -22.9404,
+          "longitude": -47.0259,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF. PRESIDENTE HUMBERTO DE ALENCAR CASTELO BRANCO",
+          "latitude": -22.9363,
+          "longitude": -47.062,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EMEF. PROFESSORA ANÁLIA FERRAZ COSTA COUTO",
+          "latitude": -22.9426,
+          "longitude": -47.0362,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EMEI. PRESIDENTE CAMPOS SALLES",
+          "latitude": -22.9482,
+          "longitude": -47.0561,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEI. PROFº HILÁRIO PEREIRA MAGRO JÚNIOR",
+          "latitude": -22.927,
+          "longitude": -47.0498,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "UNIP - UNIVERSIDADE PAULISTA - CAMPUS VITALE",
+          "latitude": -22.9221,
+          "longitude": -47.0687,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "UNIP - UNIVERSIDADE PAULISTA DE CAMPINAS - CAMPUS SWIFT",
+          "latitude": -22.9269,
+          "longitude": -47.038,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "UNIVERSIDADE SÃO FRANCISCO",
+          "latitude": -22.9344,
+          "longitude": -47.0353,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "CASA MAESTRO CARLOS GOMES - CENTRO DE ATENDIMENTO SÓCIOEDUCATIVO AO AD",
+          "latitude": -22.8575,
+          "longitude": -47.1091,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "CENTRO ESTADUAL DE EDUCAÇÃO DE JOVENS E ADULTOS PAULO DECOURT",
+          "latitude": -22.8575,
+          "longitude": -47.0425,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. ARTHUR SEGURADO",
+          "latitude": -22.8794,
+          "longitude": -47.0735,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. BARÃO GERALDO DE REZENDE",
+          "latitude": -22.8224,
+          "longitude": -47.084,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "E.E. CEL. FIRMINO GONÇALVES DA SILVEIRA",
+          "latitude": -22.8586,
+          "longitude": -47.0359,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. DR. TELÊMACO PAIOLI MELGES",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E .FRANCISCO ÁLVARES",
+          "latitude": -22.7905,
+          "longitude": -47.0814,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "E.E. JOSÉ PEDRO DE OLIVEIRA",
+          "latitude": -22.8228,
+          "longitude": -47.0804,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EE. MOACYR SANTOS DE CAMPOS",
+          "latitude": -22.8482,
+          "longitude": -47.0411,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "E.E. PROF. ADALBERTO NASCIMENTO",
+          "latitude": -22.8832,
+          "longitude": -47.0534,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROF. ADALBERTO PRADO E SILVA",
+          "latitude": -22.8543,
+          "longitude": -47.0711,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "E.E. PROF. ADIWALDE DE OLIVEIRA COELHO",
+          "latitude": -22.8833,
+          "longitude": -47.0542,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROF. ANÍBAL DE FREITAS",
+          "latitude": -22.8881,
+          "longitude": -47.0629,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROF. DANTE ALIGHIERI VITA",
+          "latitude": -22.848,
+          "longitude": -47.0523,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROF. DR. CARLOS DE ARAÚJO PIMENTEL",
+          "latitude": -22.8588,
+          "longitude": -47.0617,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROF. GUSTAVO MARCONDES",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROF. HILTON FEDERICI",
+          "latitude": -22.818,
+          "longitude": -47.0917,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "E.E. PROF. LUIZ GONZAGA HORTA LISBOA",
+          "latitude": -22.8136,
+          "longitude": -47.034,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROF. NEWTON SILVA TELLES",
+          "latitude": -22.8613,
+          "longitude": -47.0671,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROF. ROQUE MAGALHÃES BARROS",
+          "latitude": -22.9384,
+          "longitude": -47.0851,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "E.E. PROF. UACURY RIBEIRO DE ASSIS BASTOS",
+          "latitude": -22.7599,
+          "longitude": -46.9849,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROFA. ANA RITA GODINHO POUSA",
+          "latitude": -22.878,
+          "longitude": -47.0408,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "E.E. PROFA. CASTINAUTA DE B.M. ALBUQUERQUE",
+          "latitude": -22.8497,
+          "longitude": -47.117,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "E.E. PROFA. DORA MARIA MACIEL DE CASTRO KANSO",
+          "latitude": -22.7516,
+          "longitude": -47.0569,
+          "quantidadeVotos": 3
+        },
+        {
+          "nome": "E.E. PROFA. EUNICE VIRGÍNIA RAMOS NAVERO",
+          "latitude": -22.8435,
+          "longitude": -47.0222,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE REGINA COUTINHO NOGUEIRA",
+          "latitude": -22.8714,
+          "longitude": -47.041,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE 31 DE MARCO",
+          "latitude": -22.8536,
+          "longitude": -47.1081,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EEPG PROFA MARIA ALICE COLEVATI RODRIGUES",
+          "latitude": -22.8228,
+          "longitude": -47.0915,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EEPG SERGIO PEREIRA PORTO - FISICO",
+          "latitude": -22.8124,
+          "longitude": -47.0684,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF EDSON LUIZ LIMA SOUTO",
+          "latitude": -22.8409,
+          "longitude": -47.1565,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEI AGOSTINHO PATTARO",
+          "latitude": -22.8232,
+          "longitude": -47.0816,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EMEI RECANTO DA ALEGRIA",
+          "latitude": -22.8511,
+          "longitude": -47.0347,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMPG PE JOSE NARCISO VIEIRA EHREMBERG",
+          "latitude": -22.8465,
+          "longitude": -47.1152,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EMPG PROFA DULCE BENTO NASCIMENTO",
+          "latitude": -22.7922,
+          "longitude": -47.0712,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "ESCOLA SALESIANA SAO JOSE",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "ETECAP",
+          "latitude": -22.8726,
+          "longitude": -47.0899,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "FACULDADE ANHANGUERA DE CAMPINAS - UNIDADE 3 (FAC)",
+          "latitude": -22.8518,
+          "longitude": -47.0436,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "INSTITUTO EDUCACIONAL JAIME KRATZ",
+          "latitude": -22.8685,
+          "longitude": -47.06,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "LICEU SALESIANO NOSSA SENHORA AUXILIADORA",
+          "latitude": -22.8833,
+          "longitude": -47.0586,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "SEIAS - INSTITUTO EDUCACIONAL IMACULADA",
+          "latitude": -22.8901,
+          "longitude": -47.0622,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "SOCIEDADE DE INSTRUÇÃO E LEITURA COL. RIO BRANCO CPS",
+          "latitude": -22.8266,
+          "longitude": -47.0756,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "UNICAMP",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "UNIVERSIDADE PRESBITERIANA MACKENZIE",
+          "latitude": -22.8854,
+          "longitude": -47.0685,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "CEMEI ANNITA AFFONSO FERREIRA",
+          "latitude": -22.9573,
+          "longitude": -47.0879,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "CEMEI CATARINA MILANI MANARINI",
+          "latitude": -22.9532,
+          "longitude": -47.0904,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "CEMEI IRMÃ DULCE",
+          "latitude": -22.964,
+          "longitude": -47.0969,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "CEMEI JOSÉ FIDELIS",
+          "latitude": -23.0041,
+          "longitude": -47.1092,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "CEMEI MANOEL ALVES DA SILVA",
+          "latitude": -22.9759,
+          "longitude": -47.1325,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "CEMEI MARILENE CABRAL",
+          "latitude": -22.9712,
+          "longitude": -47.1244,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "CEMEI PROFA. MARIA ISABEL BALTAR DA ROCHA RODRIGUES",
+          "latitude": -22.95,
+          "longitude": -47.0815,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "CIMEI PROFESSORA THERMUTIS ARAÚJO MACHADO",
+          "latitude": -22.9738,
+          "longitude": -47.1194,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "COLÉGIO JARDINS MEDITERRÂNEO",
+          "latitude": -22.9353,
+          "longitude": -47.0915,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "CRESCER INSTITUTO EDUCACIONAL",
+          "latitude": -22.9409,
+          "longitude": -47.1023,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "E.E. BENEDICTA DE SALLES PIMENTEL WUTKE",
+          "latitude": -23.0002,
+          "longitude": -47.1078,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. CONJUNTO VIDA NOVA III",
+          "latitude": -22.9732,
+          "longitude": -47.1774,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "E.E. DEPUTADO EDUARDO BARNABÉ",
+          "latitude": -22.9788,
+          "longitude": -47.1386,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "E.E. DIC I",
+          "latitude": -22.9788,
+          "longitude": -47.1389,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "E.E. DONA VENERANDA MARTINS SIQUEIRA",
+          "latitude": -22.9653,
+          "longitude": -47.1449,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. DR. ANTONIO PIRES BARBOSA",
+          "latitude": -22.9545,
+          "longitude": -47.1129,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE. DR ENÉAS CEZAR FERREIRA",
+          "latitude": -22.9838,
+          "longitude": -47.119,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE. DR. MANOEL ALEXANDRE MARCONDES MACHADO",
+          "latitude": -22.9617,
+          "longitude": -47.1189,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. ELISEU NARCISO",
+          "latitude": -22.9784,
+          "longitude": -47.1226,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. FRANCISCO DE ASSIS",
+          "latitude": -23.0294,
+          "longitude": -47.1008,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. JORNALISTA CECÍLIA DE GODOY CAMARGO",
+          "latitude": -22.9806,
+          "longitude": -47.1276,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. ORLANDO SIGNORELLI",
+          "latitude": -22.9784,
+          "longitude": -47.1322,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "E.E. PADRE JOSÉ DOS SANTOS",
+          "latitude": -22.939,
+          "longitude": -47.1027,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PEDRO SALVETTI NETTO",
+          "latitude": -22.953,
+          "longitude": -47.1125,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PREFEITO ANTONIO DA COSTA SANTOS",
+          "latitude": -22.9916,
+          "longitude": -47.1389,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROF. BENEVENUTO TORRES",
+          "latitude": -22.9674,
+          "longitude": -47.1499,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE PROF. CELESTINO DE CAMPOS",
+          "latitude": -22.9395,
+          "longitude": -47.0905,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROF. FRANCISCO RIBEIRO SAMPAIO",
+          "latitude": -22.9761,
+          "longitude": -47.0868,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROF. LUIZ GONZAGA DA COSTA",
+          "latitude": -22.9453,
+          "longitude": -47.098,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "E.E. PROF. NEWTON PIMENTA NEVES",
+          "latitude": -22.9755,
+          "longitude": -47.128,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROFA. CELESTE PALANDI DE MELLO",
+          "latitude": -23.0304,
+          "longitude": -47.1157,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROFA. CONCEIÇÃO RIBEIRO",
+          "latitude": -22.9668,
+          "longitude": -47.1493,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROFA. MARIA DE LOURDES CAMPOS FREIRE MARQUES",
+          "latitude": -22.9671,
+          "longitude": -47.1132,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROFA. MARIA JULIETA DE GODÓI CARTEZANI",
+          "latitude": -22.9453,
+          "longitude": -47.0976,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROFA. ROSENTINA FARIA SYLLOS",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE PROFESSOR DR PAUL EUGENE CHARBONNEAU",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE. PROFESSOR MÁRIO JUNQUEIRA DA SILVA",
+          "latitude": -22.9824,
+          "longitude": -47.1193,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE PROFESSOR PAULO JOSE OCTAVIANO",
+          "latitude": -22.988,
+          "longitude": -47.1526,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE. PROFESSOR SALVADOR BOVE",
+          "latitude": -22.9834,
+          "longitude": -47.1017,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE RESIDENCIAL SÃO JOSÉ",
+          "latitude": -22.9655,
+          "longitude": -47.1619,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE SAN DIEGO",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE SARGENTO JOAQUIM PEDROSO",
+          "latitude": -22.9764,
+          "longitude": -47.1411,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE THEREZINA DA FONSECA PARES",
+          "latitude": -22.9547,
+          "longitude": -47.0918,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE WASHINGTON JOSE DE LACERDA ORTIZ",
+          "latitude": -22.9358,
+          "longitude": -47.0869,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF CARMELINA DE CASTRO RINCO",
+          "latitude": -22.9689,
+          "longitude": -47.1345,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF CORREA DE MELLO",
+          "latitude": -22.9688,
+          "longitude": -47.1388,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EMEF GENERAL HUMBERTO DE SOUZA MELO",
+          "latitude": -22.9562,
+          "longitude": -47.0932,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF MARIA PAVANATTI FAVARO",
+          "latitude": -22.9883,
+          "longitude": -47.145,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF PROF BENEVENUTO FIGUEIREDO TORRES",
+          "latitude": -22.9611,
+          "longitude": -47.0963,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF PROFA ELZA MARIA PELEGRINI DE AGUIAR",
+          "latitude": -22.9746,
+          "longitude": -47.1475,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF VIRGINIA MENDES ANTUNES DE VASCONCELLOS",
+          "latitude": -22.9746,
+          "longitude": -47.1078,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF/EJA PROFA ODILA MAIA ROCHA BRITO",
+          "latitude": -23.0389,
+          "longitude": -47.1056,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EMEI GUILHERME DE ALMEIDA",
+          "latitude": -22.9479,
+          "longitude": -47.0957,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEI TANCREDO NEVES",
+          "latitude": -22.9339,
+          "longitude": -47.0923,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "FUNDAÇÃO BRADESCO",
+          "latitude": -22.9993,
+          "longitude": -47.0848,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "NAVE MÃE ANÍSIO ESPÍNOLA TEIXEIRA",
+          "latitude": -23.6691,
+          "longitude": -46.3867,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "C.E.I. DR. MANOEL AFFONSO FERREIRA",
+          "latitude": -22.9095,
+          "longitude": -47.0842,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "C.E.I. JARDIM ENCANTADO",
+          "latitude": -22.9232,
+          "longitude": -47.1094,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "C.E.I. JOÃO VIALTA",
+          "latitude": -22.9519,
+          "longitude": -47.1867,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "C.E.I. MARIA DO CARMO DE ABREU SODRÉ (CEMEI 41)",
+          "latitude": -22.9325,
+          "longitude": -47.0944,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "C.E.I. MATILDE AZEVEDO EGÍDIO SETÚBAL",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. MAJOR ADOLPHO ROSSIN",
+          "latitude": -22.9288,
+          "longitude": -47.1665,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. ANTONIO CARLOS LEMAN (PQ. SÃO BENTO)",
+          "latitude": -22.9664,
+          "longitude": -47.1984,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. CAMPO GRANDE II",
+          "latitude": -22.9475,
+          "longitude": -47.1867,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. CARLOS ALBERTO GALHIEGO",
+          "latitude": -22.936,
+          "longitude": -47.1876,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. CONSUELO FREIRE BRANDÃO",
+          "latitude": -22.9434,
+          "longitude": -47.1001,
+          "quantidadeVotos": 3
+        },
+        {
+          "nome": "E.E. DONA VALENTINA S. DE O. FIGUEIREDO",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "E.E. DR. NEWTON OPPERMANN",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. ELVIRA PARDO MEO MURARO",
+          "latitude": -22.9348,
+          "longitude": -47.0727,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "E.E. ESCRITORA RACHEL DE QUEIRÓZ",
+          "latitude": -22.9453,
+          "longitude": -47.1181,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "E.E. FELIPE CANTUSIO",
+          "latitude": -22.9213,
+          "longitude": -47.0857,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "E.E. GLÓRIA APARECIDA ROSA VIANA",
+          "latitude": -22.9355,
+          "longitude": -47.1546,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. GUIDO SEGALHO",
+          "latitude": -22.9096,
+          "longitude": -47.084,
+          "quantidadeVotos": 4
+        },
+        {
+          "nome": "E.E. HERCY MORAES",
+          "latitude": -22.9278,
+          "longitude": -47.1139,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "E.E. HUGO PENTEADO TEIXEIRA",
+          "latitude": -22.9591,
+          "longitude": -47.2004,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. JARDIM ROSSIN",
+          "latitude": -22.9311,
+          "longitude": -47.1641,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. LAIS BERTONI PEREIRA",
+          "latitude": -22.952,
+          "longitude": -47.1146,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PADRE ANTONIO MOBILI",
+          "latitude": -22.9601,
+          "longitude": -47.2169,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROF. ÁLVARO COTOMACCI",
+          "latitude": -22.9493,
+          "longitude": -47.1798,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROF. ANDRÉ FORT",
+          "latitude": -22.9274,
+          "longitude": -47.1053,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "E.E. PROF ANTONIO VILELA JÚNIOR",
+          "latitude": -22.912,
+          "longitude": -47.0653,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROF. CARLOS FRANCISCO DE PAULA",
+          "latitude": -22.9272,
+          "longitude": -47.0892,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROF. ÉLCIO ANTONIO SELMI (RES. COSMOS)",
+          "latitude": -22.9486,
+          "longitude": -47.1591,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROFª IDALINA CALDEIRA DE SOUZA PEREIRA - PQ ITAJAÍ II",
+          "latitude": -22.9618,
+          "longitude": -47.1895,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "E.E. PROF. JOSÉ CARLOS DE ATALIBA NOGUEIRA",
+          "latitude": -22.9486,
+          "longitude": -47.1826,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROF. NORBERTO DE SOUZA PINTO",
+          "latitude": -22.9324,
+          "longitude": -47.1117,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "E.E. PROFA. ROSINA FRAZATTO DOS SANTOS",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "E.E. RUY RODRIGUEZ",
+          "latitude": -22.958,
+          "longitude": -47.1915,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. SÃO JUDAS TADEU",
+          "latitude": -22.9372,
+          "longitude": -47.1346,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. SEBASTIÃO RAMOS NOGUEIRA",
+          "latitude": -22.9172,
+          "longitude": -47.0802,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. SOPHIA VELTER SALGADO",
+          "latitude": -22.9049,
+          "longitude": -47.0835,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "E.E. VÍTOR MEIRELES",
+          "latitude": -22.8605,
+          "longitude": -47.1635,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. WILSON BRANDÃO TOFFANO",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "EMEF. CAIC ZEFERINO VAZ",
+          "latitude": -22.9462,
+          "longitude": -47.1205,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EMEF. DR. EDSON LUÍS CHAVES",
+          "latitude": -22.9328,
+          "longitude": -47.1782,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF. PADRE MELICO CÂNDIDO BARBOSA",
+          "latitude": -22.9347,
+          "longitude": -47.1188,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF. PE. EMILIO MIOTTI",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF PROFª CLOTILDE BARRAQUET VON ZUBEN",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF VIOLETA DÓRIA LINS",
+          "latitude": -22.9335,
+          "longitude": -47.096,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMPG PADRE LEÃO VALLERIE",
+          "latitude": -22.9003,
+          "longitude": -47.0898,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMPG PROF VICENTE RAO",
+          "latitude": -22.9232,
+          "longitude": -47.0851,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "ESCOLA SENAI ROBERTO MANGE",
+          "latitude": -22.9139,
+          "longitude": -47.0682,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "INSTITUTO JULIO CHEVALIER",
+          "latitude": -22.9076,
+          "longitude": -47.0788,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "CEMEI JOÃO BATISTA FILHO - BOA VISTA",
+          "latitude": -22.8859,
+          "longitude": -47.1282,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "COLÉGIO BÁSICO DE CAMPINAS",
+          "latitude": -22.8953,
+          "longitude": -47.0926,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "COLÉGIO DOCTUS - UNIDADE CHAPADÃO",
+          "latitude": -22.8941,
+          "longitude": -47.0855,
+          "quantidadeVotos": 3
+        },
+        {
+          "nome": "COLÉGIO PROVECTO",
+          "latitude": -22.9078,
+          "longitude": -47.0967,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EDUCAÇÃO E CULTURA EDUCAP JÚNIOR LTDA",
+          "latitude": -22.8815,
+          "longitude": -47.0695,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EE ANTÔNIO CARLOS PACHECO E SILVA",
+          "latitude": -22.8968,
+          "longitude": -47.156,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE BARÃO ATALIBA NOGUEIRA",
+          "latitude": -22.9039,
+          "longitude": -47.0994,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE DOM JOÃO NERY",
+          "latitude": -22.8959,
+          "longitude": -47.0825,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE DOUTOR MÁRIO NATIVIDADE",
+          "latitude": -22.9126,
+          "longitude": -47.1129,
+          "quantidadeVotos": 3
+        },
+        {
+          "nome": "EE JORNALISTA ROBERTO MARINHO",
+          "latitude": -22.8646,
+          "longitude": -47.1427,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE MARECHAL MALLET",
+          "latitude": -22.8877,
+          "longitude": -47.0827,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EE MIGUEL VICENTE CURY",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE PROFESSOR ALBERTO MARTINS",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 5
+        },
+        {
+          "nome": "EE PROFESSOR ARY MONTEIRO GALVAO",
+          "latitude": -22.8959,
+          "longitude": -47.1037,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE PROFESSOR CARLOS CRISTOVAM ZINK",
+          "latitude": -22.8861,
+          "longitude": -47.125,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EE PROFESSOR CARLOS LENCASTRE",
+          "latitude": -22.9075,
+          "longitude": -47.1136,
+          "quantidadeVotos": 5
+        },
+        {
+          "nome": "EE PROFESSOR DJALMA OCTAVIANO",
+          "latitude": -22.9189,
+          "longitude": -47.1049,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "EE PROFESSOR DOUTOR PAULO MANGABEIRA ALBERNAZ",
+          "latitude": -22.8533,
+          "longitude": -47.1614,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE PROFESSOR FABIO FARIA DE SYLLOS",
+          "latitude": -22.9049,
+          "longitude": -47.0992,
+          "quantidadeVotos": 5
+        },
+        {
+          "nome": "EE PROFESSOR HILDEBRANDO SIQUEIRA",
+          "latitude": -22.8886,
+          "longitude": -47.11,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EE PROFESSOR JOAO FIORELO REGINATO",
+          "latitude": -22.8712,
+          "longitude": -47.1518,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE PROFESSOR LUIS TADEU FACION",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE PROFESSOR MARCELINO VELEZ",
+          "latitude": -22.857,
+          "longitude": -47.155,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE PROFESSOR MESSIAS GONÇALVES TEIXEIRA",
+          "latitude": -22.8559,
+          "longitude": -47.156,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE PROFESSOR VITORIO JOSE A. ZAMARION",
+          "latitude": -22.9123,
+          "longitude": -47.0953,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE PROFESSORA LEONOR ZULHKE FALSON",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE PROFESSORA MARIA ISABEL GUIDICE A. CAVALCANTI",
+          "latitude": -22.8953,
+          "longitude": -47.1449,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE REVERENDO PROFESSOR JOSE CARLOS NOGUEIRA",
+          "latitude": -22.889,
+          "longitude": -47.1229,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF DOUTOR JOAO ALVES DOS SANTOS",
+          "latitude": -22.8846,
+          "longitude": -47.1448,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "EMEF PADRE DOMINGOS ZATTI",
+          "latitude": -23.0058,
+          "longitude": -47.046,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF PADRE FRANCISCO SILVA",
+          "latitude": -22.9155,
+          "longitude": -47.1085,
+          "quantidadeVotos": 4
+        },
+        {
+          "nome": "EMEF PROFESSORA SYLVIA SIMOES MAGRO",
+          "latitude": -22.9268,
+          "longitude": -47.124,
+          "quantidadeVotos": 4
+        },
+        {
+          "nome": "EMEI BENJAMIN CONSTANT",
+          "latitude": -22.9017,
+          "longitude": -47.1042,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEI BOLINHA DE MEL",
+          "latitude": -22.8855,
+          "longitude": -47.1064,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEI CONEGO MANOEL GARCIA",
+          "latitude": -22.897,
+          "longitude": -47.0789,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEI PAPAI NOEL",
+          "latitude": -22.8906,
+          "longitude": -47.145,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEI PROFESSOR JORGE LEME - PADRE ANCHIETA II",
+          "latitude": -22.8677,
+          "longitude": -47.1533,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEI PROFESSORA HERMINA RICCI",
+          "latitude": -22.9147,
+          "longitude": -47.1151,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEI RECANTO DAS CRIANCAS",
+          "latitude": -22.9157,
+          "longitude": -47.1101,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "EMEI REGENTE FEIJO",
+          "latitude": -22.8913,
+          "longitude": -47.1205,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "COLÉGIO ILLUMINARE",
+          "latitude": -22.883,
+          "longitude": -46.9716,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "COLÉGIO VERTICAL",
+          "latitude": -22.8806,
+          "longitude": -46.9704,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. BENTO QUIRINO",
+          "latitude": -22.8873,
+          "longitude": -47.0483,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "E.E. CRISTIANO VOLKART",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. DOUTOR TOMAS ALVES",
+          "latitude": -22.8776,
+          "longitude": -46.9674,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. DR. ANTÔNIO CARLOS COUTO DE BARROS",
+          "latitude": -22.8886,
+          "longitude": -46.976,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. FRANCISCO BARRETO LEME",
+          "latitude": -22.8902,
+          "longitude": -46.9428,
+          "quantidadeVotos": 200
+        },
+        {
+          "nome": "E.E. JÚLIA LUIZ RUETE",
+          "latitude": -22.9176,
+          "longitude": -47.0221,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. MONSENHOR LUÍS GONZAGA DE MOURA",
+          "latitude": -22.8847,
+          "longitude": -47.0454,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROFESSOR ALBERTO MEDALJON",
+          "latitude": -22.8981,
+          "longitude": -47.0244,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROFESSOR CORIOLANO MONTEIRO",
+          "latitude": -22.9289,
+          "longitude": -47.0284,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROFESSOR JOAQUIM FERREIRA LIMA",
+          "latitude": -22.8739,
+          "longitude": -47.0268,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROFESSORA CECÍLIA PEREIRA",
+          "latitude": -22.915,
+          "longitude": -47.033,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EM. LOURENÇO BELLOCHIO",
+          "latitude": -22.8769,
+          "longitude": -47.0288,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EM. PRESIDENTE FLORIANO PEIXOTO",
+          "latitude": -22.9232,
+          "longitude": -47.0286,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.M. PROFESSOR CIRO EXCEL MAGRO",
+          "latitude": -22.9169,
+          "longitude": -47.035,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EM RAUL PILA",
+          "latitude": -22.886,
+          "longitude": -47.0302,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF LEONOR SAVI CHAIB",
+          "latitude": -22.9292,
+          "longitude": -47.0231,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF ORLANDO CARPINO",
+          "latitude": -22.9231,
+          "longitude": -47.0378,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF PROFESSORA ANGELA CURY ZAKIA",
+          "latitude": -22.871,
+          "longitude": -46.9589,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "ESCOLA ASTHER ESCOLA DE EDUCAÇÃO INFANTIL E PRIMEIRO GRAU",
+          "latitude": -22.9186,
+          "longitude": -47.0442,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "ESCOLA COMUNITÁRIA DE CAMPINAS",
+          "latitude": -22.8938,
+          "longitude": -47.0069,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "SOCIEDADE EDUC. SAGRADO CORAÇÃO DE JESUS",
+          "latitude": -22.9063,
+          "longitude": -47.0398,
+          "quantidadeVotos": 1
+        }
+      ]
+    },
+    {
+      "nomeCandidato": "ADÃO DO VAREJÃO",
+      "numeroCandidato": "65999",
+      "DescCargo": "Vereador",
+      "escolas": [
+        {
+          "nome": "COLÉGIO DE APLICAÇÃO PIO XII",
+          "latitude": -22.9099,
+          "longitude": -47.0522,
+          "quantidadeVotos": 200
+        },
+        {
+          "nome": "COLÉGIO FRANCISCANO AVE MARIA",
+          "latitude": -22.912,
+          "longitude": -47.0548,
+          "quantidadeVotos": 200
+        },
+        {
+          "nome": "COLÉGIO MADRE CECÍLIA",
+          "latitude": -22.8977,
+          "longitude": -47.0498,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "COLÉGIO OBJETIVO",
+          "latitude": -22.8903,
+          "longitude": -47.0479,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "COLEGIO PROGRESSO CAMPINEIRO",
+          "latitude": -22.8983,
+          "longitude": -47.0558,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE. CARLOS GOMES",
+          "latitude": -22.8988,
+          "longitude": -47.0586,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. CULTO A CIÊNCIA",
+          "latitude": -22.9008,
+          "longitude": -47.0688,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EE. DONA CASTORINA CAVALHEIRO",
+          "latitude": -22.8925,
+          "longitude": -47.0632,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE. FRANCISCO GLICÉRIO",
+          "latitude": -22.9061,
+          "longitude": -47.0549,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE. JOÃO LOURENÇO RODRIGUES",
+          "latitude": -22.9026,
+          "longitude": -47.0488,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE. OROZIMBO MAIA",
+          "latitude": -22.9065,
+          "longitude": -47.0679,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE. PROFESSOR BENEDITO SAMPAIO",
+          "latitude": -22.8999,
+          "longitude": -47.0668,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE. PROFESSOR JOSÉ VILLAGELIN NETO",
+          "latitude": -22.9158,
+          "longitude": -47.0475,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEI PREFEITO JOSÉ PIRES NETO",
+          "latitude": -22.9146,
+          "longitude": -47.0471,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "FACULDADES INTEGRADAS IPEP",
+          "latitude": -22.9098,
+          "longitude": -47.0598,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "SENAC",
+          "latitude": -22.899,
+          "longitude": -47.0612,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "USF - UNIV. SÃO FRANCISCO",
+          "latitude": -22.8943,
+          "longitude": -47.0502,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "CEI MARIA BEATRIZ CARVALHO MOREIRA",
+          "latitude": -22.9381,
+          "longitude": -47.0408,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "COLÉGIO DOM BARRETO",
+          "latitude": -22.9196,
+          "longitude": -47.0535,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE. ÁUREA ANUNCIAÇÃO AMÉRICO DE GODOY",
+          "latitude": -22.9324,
+          "longitude": -47.0156,
+          "quantidadeVotos": 200
+        },
+        {
+          "nome": "EE. DEPUTADO JAMIL GADIA",
+          "latitude": -22.944,
+          "longitude": -47.0572,
+          "quantidadeVotos": 200
+        },
+        {
+          "nome": "EE. DOM BARRETO",
+          "latitude": -22.9159,
+          "longitude": -47.0583,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE. DR. DISNEI FRANCISCO SCORNAIENCHI",
+          "latitude": -22.9594,
+          "longitude": -47.0534,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE. JOÃO GUMERCINDO GUIMARÃES",
+          "latitude": -22.9427,
+          "longitude": -47.0553,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE. JOSÉ MARIA MATOSINHO",
+          "latitude": -22.9248,
+          "longitude": -47.075,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EE. JÚLIO MESQUITA",
+          "latitude": -22.9331,
+          "longitude": -47.0485,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EE. MONSENHOR EMÍLIO JOSÉ SALIM",
+          "latitude": -22.9245,
+          "longitude": -47.0549,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE. NELY HELENA ASSIS DE ANDRADE",
+          "latitude": -22.9365,
+          "longitude": -47.0489,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE. PROCÓPIO FERREIRA",
+          "latitude": -22.9359,
+          "longitude": -47.0422,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE. PROF. LUIZ GALHARDO",
+          "latitude": -22.9349,
+          "longitude": -47.034,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE. PROF. MILTON DE TOLOSA",
+          "latitude": -22.9272,
+          "longitude": -47.0602,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROF. PAULO LUIZ DECOURT",
+          "latitude": -22.9501,
+          "longitude": -47.033,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF. AVELINO CANAZZA",
+          "latitude": -22.9489,
+          "longitude": -47.024,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF. ELVIRA MURARO",
+          "latitude": -22.9319,
+          "longitude": -47.023,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF. FRANCISCO PONZIO SOBRINHO",
+          "latitude": -22.9351,
+          "longitude": -47.0329,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF. GENY RODRIGUES",
+          "latitude": -22.9202,
+          "longitude": -47.0762,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF. JÚLIO MESQUITA FILHO",
+          "latitude": -22.947,
+          "longitude": -47.025,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF. MARIA LUIZA POMPEU DE CAMARGO",
+          "latitude": -22.9404,
+          "longitude": -47.0259,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF. PRESIDENTE HUMBERTO DE ALENCAR CASTELO BRANCO",
+          "latitude": -22.9363,
+          "longitude": -47.062,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF. PROFESSORA ANÁLIA FERRAZ COSTA COUTO",
+          "latitude": -22.9426,
+          "longitude": -47.0362,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEI. PRESIDENTE CAMPOS SALLES",
+          "latitude": -22.9482,
+          "longitude": -47.0561,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEI. PROFº HILÁRIO PEREIRA MAGRO JÚNIOR",
+          "latitude": -22.927,
+          "longitude": -47.0498,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "UNIP - UNIVERSIDADE PAULISTA - CAMPUS VITALE",
+          "latitude": -22.9221,
+          "longitude": -47.0687,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "UNIP - UNIVERSIDADE PAULISTA DE CAMPINAS - CAMPUS SWIFT",
+          "latitude": -22.9269,
+          "longitude": -47.038,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "UNIVERSIDADE SÃO FRANCISCO",
+          "latitude": -22.9344,
+          "longitude": -47.0353,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "CASA MAESTRO CARLOS GOMES - CENTRO DE ATENDIMENTO SÓCIOEDUCATIVO AO AD",
+          "latitude": -22.8575,
+          "longitude": -47.1091,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "CENTRO ESTADUAL DE EDUCAÇÃO DE JOVENS E ADULTOS PAULO DECOURT",
+          "latitude": -22.8575,
+          "longitude": -47.0425,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. ARTHUR SEGURADO",
+          "latitude": -22.8794,
+          "longitude": -47.0735,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. BARÃO GERALDO DE REZENDE",
+          "latitude": -22.8224,
+          "longitude": -47.084,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. CEL. FIRMINO GONÇALVES DA SILVEIRA",
+          "latitude": -22.8586,
+          "longitude": -47.0359,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. DR. TELÊMACO PAIOLI MELGES",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E .FRANCISCO ÁLVARES",
+          "latitude": -22.7905,
+          "longitude": -47.0814,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. JOSÉ PEDRO DE OLIVEIRA",
+          "latitude": -22.8228,
+          "longitude": -47.0804,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE. MOACYR SANTOS DE CAMPOS",
+          "latitude": -22.8482,
+          "longitude": -47.0411,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROF. ADALBERTO NASCIMENTO",
+          "latitude": -22.8832,
+          "longitude": -47.0534,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROF. ADALBERTO PRADO E SILVA",
+          "latitude": -22.8543,
+          "longitude": -47.0711,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROF. ADIWALDE DE OLIVEIRA COELHO",
+          "latitude": -22.8833,
+          "longitude": -47.0542,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROF. ANÍBAL DE FREITAS",
+          "latitude": -22.8881,
+          "longitude": -47.0629,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROF. DANTE ALIGHIERI VITA",
+          "latitude": -22.848,
+          "longitude": -47.0523,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROF. DR. CARLOS DE ARAÚJO PIMENTEL",
+          "latitude": -22.8588,
+          "longitude": -47.0617,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROF. GUSTAVO MARCONDES",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROF. HILTON FEDERICI",
+          "latitude": -22.818,
+          "longitude": -47.0917,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROF. LUIZ GONZAGA HORTA LISBOA",
+          "latitude": -22.8136,
+          "longitude": -47.034,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROF. NEWTON SILVA TELLES",
+          "latitude": -22.8613,
+          "longitude": -47.0671,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROF. ROQUE MAGALHÃES BARROS",
+          "latitude": -22.9384,
+          "longitude": -47.0851,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROF. UACURY RIBEIRO DE ASSIS BASTOS",
+          "latitude": -22.7599,
+          "longitude": -46.9849,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROFA. ANA RITA GODINHO POUSA",
+          "latitude": -22.878,
+          "longitude": -47.0408,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROFA. CASTINAUTA DE B.M. ALBUQUERQUE",
+          "latitude": -22.8497,
+          "longitude": -47.117,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROFA. DORA MARIA MACIEL DE CASTRO KANSO",
+          "latitude": -22.7516,
+          "longitude": -47.0569,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROFA. EUNICE VIRGÍNIA RAMOS NAVERO",
+          "latitude": -22.8435,
+          "longitude": -47.0222,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE REGINA COUTINHO NOGUEIRA",
+          "latitude": -22.8714,
+          "longitude": -47.041,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE 31 DE MARCO",
+          "latitude": -22.8536,
+          "longitude": -47.1081,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EEPG PROFA MARIA ALICE COLEVATI RODRIGUES",
+          "latitude": -22.8228,
+          "longitude": -47.0915,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EEPG SERGIO PEREIRA PORTO - FISICO",
+          "latitude": -22.8124,
+          "longitude": -47.0684,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF EDSON LUIZ LIMA SOUTO",
+          "latitude": -22.8409,
+          "longitude": -47.1565,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEI AGOSTINHO PATTARO",
+          "latitude": -22.8232,
+          "longitude": -47.0816,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEI RECANTO DA ALEGRIA",
+          "latitude": -22.8511,
+          "longitude": -47.0347,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMPG PE JOSE NARCISO VIEIRA EHREMBERG",
+          "latitude": -22.8465,
+          "longitude": -47.1152,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMPG PROFA DULCE BENTO NASCIMENTO",
+          "latitude": -22.7922,
+          "longitude": -47.0712,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "ESCOLA SALESIANA SAO JOSE",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "ETECAP",
+          "latitude": -22.8726,
+          "longitude": -47.0899,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "FACULDADE ANHANGUERA DE CAMPINAS - UNIDADE 3 (FAC)",
+          "latitude": -22.8518,
+          "longitude": -47.0436,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "INSTITUTO EDUCACIONAL JAIME KRATZ",
+          "latitude": -22.8685,
+          "longitude": -47.06,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "LICEU SALESIANO NOSSA SENHORA AUXILIADORA",
+          "latitude": -22.8833,
+          "longitude": -47.0586,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "SEIAS - INSTITUTO EDUCACIONAL IMACULADA",
+          "latitude": -22.8901,
+          "longitude": -47.0622,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "SOCIEDADE DE INSTRUÇÃO E LEITURA COL. RIO BRANCO CPS",
+          "latitude": -22.8266,
+          "longitude": -47.0756,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "UNICAMP",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "UNIVERSIDADE PRESBITERIANA MACKENZIE",
+          "latitude": -22.8854,
+          "longitude": -47.0685,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "CEMEI ANNITA AFFONSO FERREIRA",
+          "latitude": -22.9573,
+          "longitude": -47.0879,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "CEMEI CATARINA MILANI MANARINI",
+          "latitude": -22.9532,
+          "longitude": -47.0904,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "CEMEI IRMÃ DULCE",
+          "latitude": -22.964,
+          "longitude": -47.0969,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "CEMEI JOSÉ FIDELIS",
+          "latitude": -23.0041,
+          "longitude": -47.1092,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "CEMEI MANOEL ALVES DA SILVA",
+          "latitude": -22.9759,
+          "longitude": -47.1325,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "CEMEI MARILENE CABRAL",
+          "latitude": -22.9712,
+          "longitude": -47.1244,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "CEMEI PROFA. MARIA ISABEL BALTAR DA ROCHA RODRIGUES",
+          "latitude": -22.95,
+          "longitude": -47.0815,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "CIMEI PROFESSORA THERMUTIS ARAÚJO MACHADO",
+          "latitude": -22.9738,
+          "longitude": -47.1194,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "COLÉGIO JARDINS MEDITERRÂNEO",
+          "latitude": -22.9353,
+          "longitude": -47.0915,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "CRESCER INSTITUTO EDUCACIONAL",
+          "latitude": -22.9409,
+          "longitude": -47.1023,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. BENEDICTA DE SALLES PIMENTEL WUTKE",
+          "latitude": -23.0002,
+          "longitude": -47.1078,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. CONJUNTO VIDA NOVA III",
+          "latitude": -22.9732,
+          "longitude": -47.1774,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. DEPUTADO EDUARDO BARNABÉ",
+          "latitude": -22.9788,
+          "longitude": -47.1386,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. DIC I",
+          "latitude": -22.9788,
+          "longitude": -47.1389,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. DONA VENERANDA MARTINS SIQUEIRA",
+          "latitude": -22.9653,
+          "longitude": -47.1449,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. DR. ANTONIO PIRES BARBOSA",
+          "latitude": -22.9545,
+          "longitude": -47.1129,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE. DR ENÉAS CEZAR FERREIRA",
+          "latitude": -22.9838,
+          "longitude": -47.119,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE. DR. MANOEL ALEXANDRE MARCONDES MACHADO",
+          "latitude": -22.9617,
+          "longitude": -47.1189,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. ELISEU NARCISO",
+          "latitude": -22.9784,
+          "longitude": -47.1226,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. FRANCISCO DE ASSIS",
+          "latitude": -23.0294,
+          "longitude": -47.1008,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. JORNALISTA CECÍLIA DE GODOY CAMARGO",
+          "latitude": -22.9806,
+          "longitude": -47.1276,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. ORLANDO SIGNORELLI",
+          "latitude": -22.9784,
+          "longitude": -47.1322,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PADRE JOSÉ DOS SANTOS",
+          "latitude": -22.939,
+          "longitude": -47.1027,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "E.E. PEDRO SALVETTI NETTO",
+          "latitude": -22.953,
+          "longitude": -47.1125,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PREFEITO ANTONIO DA COSTA SANTOS",
+          "latitude": -22.9916,
+          "longitude": -47.1389,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROF. BENEVENUTO TORRES",
+          "latitude": -22.9674,
+          "longitude": -47.1499,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE PROF. CELESTINO DE CAMPOS",
+          "latitude": -22.9395,
+          "longitude": -47.0905,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROF. FRANCISCO RIBEIRO SAMPAIO",
+          "latitude": -22.9761,
+          "longitude": -47.0868,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "E.E. PROF. LUIZ GONZAGA DA COSTA",
+          "latitude": -22.9453,
+          "longitude": -47.098,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROF. NEWTON PIMENTA NEVES",
+          "latitude": -22.9755,
+          "longitude": -47.128,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROFA. CELESTE PALANDI DE MELLO",
+          "latitude": -23.0304,
+          "longitude": -47.1157,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROFA. CONCEIÇÃO RIBEIRO",
+          "latitude": -22.9668,
+          "longitude": -47.1493,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROFA. MARIA DE LOURDES CAMPOS FREIRE MARQUES",
+          "latitude": -22.9671,
+          "longitude": -47.1132,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROFA. MARIA JULIETA DE GODÓI CARTEZANI",
+          "latitude": -22.9453,
+          "longitude": -47.0976,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "E.E. PROFA. ROSENTINA FARIA SYLLOS",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE PROFESSOR DR PAUL EUGENE CHARBONNEAU",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE. PROFESSOR MÁRIO JUNQUEIRA DA SILVA",
+          "latitude": -22.9824,
+          "longitude": -47.1193,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE PROFESSOR PAULO JOSE OCTAVIANO",
+          "latitude": -22.988,
+          "longitude": -47.1526,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE. PROFESSOR SALVADOR BOVE",
+          "latitude": -22.9834,
+          "longitude": -47.1017,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE RESIDENCIAL SÃO JOSÉ",
+          "latitude": -22.9655,
+          "longitude": -47.1619,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE SAN DIEGO",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE SARGENTO JOAQUIM PEDROSO",
+          "latitude": -22.9764,
+          "longitude": -47.1411,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE THEREZINA DA FONSECA PARES",
+          "latitude": -22.9547,
+          "longitude": -47.0918,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE WASHINGTON JOSE DE LACERDA ORTIZ",
+          "latitude": -22.9358,
+          "longitude": -47.0869,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF CARMELINA DE CASTRO RINCO",
+          "latitude": -22.9689,
+          "longitude": -47.1345,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF CORREA DE MELLO",
+          "latitude": -22.9688,
+          "longitude": -47.1388,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF GENERAL HUMBERTO DE SOUZA MELO",
+          "latitude": -22.9562,
+          "longitude": -47.0932,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF MARIA PAVANATTI FAVARO",
+          "latitude": -22.9883,
+          "longitude": -47.145,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF PROF BENEVENUTO FIGUEIREDO TORRES",
+          "latitude": -22.9611,
+          "longitude": -47.0963,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF PROFA ELZA MARIA PELEGRINI DE AGUIAR",
+          "latitude": -22.9746,
+          "longitude": -47.1475,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF VIRGINIA MENDES ANTUNES DE VASCONCELLOS",
+          "latitude": -22.9746,
+          "longitude": -47.1078,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF/EJA PROFA ODILA MAIA ROCHA BRITO",
+          "latitude": -23.0389,
+          "longitude": -47.1056,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEI GUILHERME DE ALMEIDA",
+          "latitude": -22.9479,
+          "longitude": -47.0957,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEI TANCREDO NEVES",
+          "latitude": -22.9339,
+          "longitude": -47.0923,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "FUNDAÇÃO BRADESCO",
+          "latitude": -22.9993,
+          "longitude": -47.0848,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "NAVE MÃE ANÍSIO ESPÍNOLA TEIXEIRA",
+          "latitude": -23.6691,
+          "longitude": -46.3867,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "C.E.I. DR. MANOEL AFFONSO FERREIRA",
+          "latitude": -22.9095,
+          "longitude": -47.0842,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "C.E.I. JARDIM ENCANTADO",
+          "latitude": -22.9232,
+          "longitude": -47.1094,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "C.E.I. JOÃO VIALTA",
+          "latitude": -22.9519,
+          "longitude": -47.1867,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "C.E.I. MARIA DO CARMO DE ABREU SODRÉ (CEMEI 41)",
+          "latitude": -22.9325,
+          "longitude": -47.0944,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "C.E.I. MATILDE AZEVEDO EGÍDIO SETÚBAL",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. MAJOR ADOLPHO ROSSIN",
+          "latitude": -22.9288,
+          "longitude": -47.1665,
+          "quantidadeVotos": 11
+        },
+        {
+          "nome": "E.E. ANTONIO CARLOS LEMAN (PQ. SÃO BENTO)",
+          "latitude": -22.9664,
+          "longitude": -47.1984,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. CAMPO GRANDE II",
+          "latitude": -22.9475,
+          "longitude": -47.1867,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. CARLOS ALBERTO GALHIEGO",
+          "latitude": -22.936,
+          "longitude": -47.1876,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. CONSUELO FREIRE BRANDÃO",
+          "latitude": -22.9434,
+          "longitude": -47.1001,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. DONA VALENTINA S. DE O. FIGUEIREDO",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "E.E. DR. NEWTON OPPERMANN",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "E.E. ELVIRA PARDO MEO MURARO",
+          "latitude": -22.9348,
+          "longitude": -47.0727,
+          "quantidadeVotos": 5
+        },
+        {
+          "nome": "E.E. ESCRITORA RACHEL DE QUEIRÓZ",
+          "latitude": -22.9453,
+          "longitude": -47.1181,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. FELIPE CANTUSIO",
+          "latitude": -22.9213,
+          "longitude": -47.0857,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. GLÓRIA APARECIDA ROSA VIANA",
+          "latitude": -22.9355,
+          "longitude": -47.1546,
+          "quantidadeVotos": 47
+        },
+        {
+          "nome": "E.E. GUIDO SEGALHO",
+          "latitude": -22.9096,
+          "longitude": -47.084,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. HERCY MORAES",
+          "latitude": -22.9278,
+          "longitude": -47.1139,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "E.E. HUGO PENTEADO TEIXEIRA",
+          "latitude": -22.9591,
+          "longitude": -47.2004,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. JARDIM ROSSIN",
+          "latitude": -22.9311,
+          "longitude": -47.1641,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. LAIS BERTONI PEREIRA",
+          "latitude": -22.952,
+          "longitude": -47.1146,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PADRE ANTONIO MOBILI",
+          "latitude": -22.9601,
+          "longitude": -47.2169,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "E.E. PROF. ÁLVARO COTOMACCI",
+          "latitude": -22.9493,
+          "longitude": -47.1798,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "E.E. PROF. ANDRÉ FORT",
+          "latitude": -22.9274,
+          "longitude": -47.1053,
+          "quantidadeVotos": 3
+        },
+        {
+          "nome": "E.E. PROF ANTONIO VILELA JÚNIOR",
+          "latitude": -22.912,
+          "longitude": -47.0653,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROF. CARLOS FRANCISCO DE PAULA",
+          "latitude": -22.9272,
+          "longitude": -47.0892,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROF. ÉLCIO ANTONIO SELMI (RES. COSMOS)",
+          "latitude": -22.9486,
+          "longitude": -47.1591,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROFª IDALINA CALDEIRA DE SOUZA PEREIRA - PQ ITAJAÍ II",
+          "latitude": -22.9618,
+          "longitude": -47.1895,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "E.E. PROF. JOSÉ CARLOS DE ATALIBA NOGUEIRA",
+          "latitude": -22.9486,
+          "longitude": -47.1826,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROF. NORBERTO DE SOUZA PINTO",
+          "latitude": -22.9324,
+          "longitude": -47.1117,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROFA. ROSINA FRAZATTO DOS SANTOS",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "E.E. RUY RODRIGUEZ",
+          "latitude": -22.958,
+          "longitude": -47.1915,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. SÃO JUDAS TADEU",
+          "latitude": -22.9372,
+          "longitude": -47.1346,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "E.E. SEBASTIÃO RAMOS NOGUEIRA",
+          "latitude": -22.9172,
+          "longitude": -47.0802,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. SOPHIA VELTER SALGADO",
+          "latitude": -22.9049,
+          "longitude": -47.0835,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. VÍTOR MEIRELES",
+          "latitude": -22.8605,
+          "longitude": -47.1635,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. WILSON BRANDÃO TOFFANO",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF. CAIC ZEFERINO VAZ",
+          "latitude": -22.9462,
+          "longitude": -47.1205,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF. DR. EDSON LUÍS CHAVES",
+          "latitude": -22.9328,
+          "longitude": -47.1782,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF. PADRE MELICO CÂNDIDO BARBOSA",
+          "latitude": -22.9347,
+          "longitude": -47.1188,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF. PE. EMILIO MIOTTI",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF PROFª CLOTILDE BARRAQUET VON ZUBEN",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF VIOLETA DÓRIA LINS",
+          "latitude": -22.9335,
+          "longitude": -47.096,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMPG PADRE LEÃO VALLERIE",
+          "latitude": -22.9003,
+          "longitude": -47.0898,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMPG PROF VICENTE RAO",
+          "latitude": -22.9232,
+          "longitude": -47.0851,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "ESCOLA SENAI ROBERTO MANGE",
+          "latitude": -22.9139,
+          "longitude": -47.0682,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "INSTITUTO JULIO CHEVALIER",
+          "latitude": -22.9076,
+          "longitude": -47.0788,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "CEMEI JOÃO BATISTA FILHO - BOA VISTA",
+          "latitude": -22.8859,
+          "longitude": -47.1282,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "COLÉGIO BÁSICO DE CAMPINAS",
+          "latitude": -22.8953,
+          "longitude": -47.0926,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "COLÉGIO DOCTUS - UNIDADE CHAPADÃO",
+          "latitude": -22.8941,
+          "longitude": -47.0855,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "COLÉGIO PROVECTO",
+          "latitude": -22.9078,
+          "longitude": -47.0967,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EDUCAÇÃO E CULTURA EDUCAP JÚNIOR LTDA",
+          "latitude": -22.8815,
+          "longitude": -47.0695,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE ANTÔNIO CARLOS PACHECO E SILVA",
+          "latitude": -22.8968,
+          "longitude": -47.156,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE BARÃO ATALIBA NOGUEIRA",
+          "latitude": -22.9039,
+          "longitude": -47.0994,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE DOM JOÃO NERY",
+          "latitude": -22.8959,
+          "longitude": -47.0825,
+          "quantidadeVotos": 2
+        },
+        {
+          "nome": "EE DOUTOR MÁRIO NATIVIDADE",
+          "latitude": -22.9126,
+          "longitude": -47.1129,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE JORNALISTA ROBERTO MARINHO",
+          "latitude": -22.8646,
+          "longitude": -47.1427,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE MARECHAL MALLET",
+          "latitude": -22.8877,
+          "longitude": -47.0827,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE MIGUEL VICENTE CURY",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE PROFESSOR ALBERTO MARTINS",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE PROFESSOR ARY MONTEIRO GALVAO",
+          "latitude": -22.8959,
+          "longitude": -47.1037,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE PROFESSOR CARLOS CRISTOVAM ZINK",
+          "latitude": -22.8861,
+          "longitude": -47.125,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE PROFESSOR CARLOS LENCASTRE",
+          "latitude": -22.9075,
+          "longitude": -47.1136,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE PROFESSOR DJALMA OCTAVIANO",
+          "latitude": -22.9189,
+          "longitude": -47.1049,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE PROFESSOR DOUTOR PAULO MANGABEIRA ALBERNAZ",
+          "latitude": -22.8533,
+          "longitude": -47.1614,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE PROFESSOR FABIO FARIA DE SYLLOS",
+          "latitude": -22.9049,
+          "longitude": -47.0992,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE PROFESSOR HILDEBRANDO SIQUEIRA",
+          "latitude": -22.8886,
+          "longitude": -47.11,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE PROFESSOR JOAO FIORELO REGINATO",
+          "latitude": -22.8712,
+          "longitude": -47.1518,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE PROFESSOR LUIS TADEU FACION",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EE PROFESSOR MARCELINO VELEZ",
+          "latitude": -22.857,
+          "longitude": -47.155,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE PROFESSOR MESSIAS GONÇALVES TEIXEIRA",
+          "latitude": -22.8559,
+          "longitude": -47.156,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE PROFESSOR VITORIO JOSE A. ZAMARION",
+          "latitude": -22.9123,
+          "longitude": -47.0953,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE PROFESSORA LEONOR ZULHKE FALSON",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE PROFESSORA MARIA ISABEL GUIDICE A. CAVALCANTI",
+          "latitude": -22.8953,
+          "longitude": -47.1449,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EE REVERENDO PROFESSOR JOSE CARLOS NOGUEIRA",
+          "latitude": -22.889,
+          "longitude": -47.1229,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF DOUTOR JOAO ALVES DOS SANTOS",
+          "latitude": -22.8846,
+          "longitude": -47.1448,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EMEF PADRE DOMINGOS ZATTI",
+          "latitude": -23.0058,
+          "longitude": -47.046,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF PADRE FRANCISCO SILVA",
+          "latitude": -22.9155,
+          "longitude": -47.1085,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "EMEF PROFESSORA SYLVIA SIMOES MAGRO",
+          "latitude": -22.9268,
+          "longitude": -47.124,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEI BENJAMIN CONSTANT",
+          "latitude": -22.9017,
+          "longitude": -47.1042,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEI BOLINHA DE MEL",
+          "latitude": -22.8855,
+          "longitude": -47.1064,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEI CONEGO MANOEL GARCIA",
+          "latitude": -22.897,
+          "longitude": -47.0789,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEI PAPAI NOEL",
+          "latitude": -22.8906,
+          "longitude": -47.145,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEI PROFESSOR JORGE LEME - PADRE ANCHIETA II",
+          "latitude": -22.8677,
+          "longitude": -47.1533,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEI PROFESSORA HERMINA RICCI",
+          "latitude": -22.9147,
+          "longitude": -47.1151,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEI RECANTO DAS CRIANCAS",
+          "latitude": -22.9157,
+          "longitude": -47.1101,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEI REGENTE FEIJO",
+          "latitude": -22.8913,
+          "longitude": -47.1205,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "COLÉGIO ILLUMINARE",
+          "latitude": -22.883,
+          "longitude": -46.9716,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "COLÉGIO VERTICAL",
+          "latitude": -22.8806,
+          "longitude": -46.9704,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. BENTO QUIRINO",
+          "latitude": -22.8873,
+          "longitude": -47.0483,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. CRISTIANO VOLKART",
+          "latitude": -22.9099,
+          "longitude": -47.0626,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. DOUTOR TOMAS ALVES",
+          "latitude": -22.8776,
+          "longitude": -46.9674,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. DR. ANTÔNIO CARLOS COUTO DE BARROS",
+          "latitude": -22.8886,
+          "longitude": -46.976,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. FRANCISCO BARRETO LEME",
+          "latitude": -22.8902,
+          "longitude": -46.9428,
+          "quantidadeVotos": 200
+        },
+        {
+          "nome": "E.E. JÚLIA LUIZ RUETE",
+          "latitude": -22.9176,
+          "longitude": -47.0221,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. MONSENHOR LUÍS GONZAGA DE MOURA",
+          "latitude": -22.8847,
+          "longitude": -47.0454,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROFESSOR ALBERTO MEDALJON",
+          "latitude": -22.8981,
+          "longitude": -47.0244,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROFESSOR CORIOLANO MONTEIRO",
+          "latitude": -22.9289,
+          "longitude": -47.0284,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROFESSOR JOAQUIM FERREIRA LIMA",
+          "latitude": -22.8739,
+          "longitude": -47.0268,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.E. PROFESSORA CECÍLIA PEREIRA",
+          "latitude": -22.915,
+          "longitude": -47.033,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EM. LOURENÇO BELLOCHIO",
+          "latitude": -22.8769,
+          "longitude": -47.0288,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EM. PRESIDENTE FLORIANO PEIXOTO",
+          "latitude": -22.9232,
+          "longitude": -47.0286,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "E.M. PROFESSOR CIRO EXCEL MAGRO",
+          "latitude": -22.9169,
+          "longitude": -47.035,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EM RAUL PILA",
+          "latitude": -22.886,
+          "longitude": -47.0302,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF LEONOR SAVI CHAIB",
+          "latitude": -22.9292,
+          "longitude": -47.0231,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF ORLANDO CARPINO",
+          "latitude": -22.9231,
+          "longitude": -47.0378,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "EMEF PROFESSORA ANGELA CURY ZAKIA",
+          "latitude": -22.871,
+          "longitude": -46.9589,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "ESCOLA ASTHER ESCOLA DE EDUCAÇÃO INFANTIL E PRIMEIRO GRAU",
+          "latitude": -22.9186,
+          "longitude": -47.0442,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "ESCOLA COMUNITÁRIA DE CAMPINAS",
+          "latitude": -22.8938,
+          "longitude": -47.0069,
+          "quantidadeVotos": 1
+        },
+        {
+          "nome": "SOCIEDADE EDUC. SAGRADO CORAÇÃO DE JESUS",
+          "latitude": -22.9063,
+          "longitude": -47.0398,
+          "quantidadeVotos": 200
+        }
+      ]
+    }
+  ]
+}

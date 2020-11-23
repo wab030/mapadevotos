@@ -1,0 +1,45 @@
+.titulo {
+  font-family: arial;
+  font-weight: bold;
+  font-size: 30px;
+  position: absolute;
+  top: 1px;
+  right: 2%;
+  z-index: 800;
+}
+
+.controles {
+  padding: 3px;
+  position: absolute;
+  top: 70px;
+  width: 300px;
+  right: 2%;
+  z-index: 800;
+  background-color: #fff3e6;
+  font-family: arial;
+  border: 2px solid black;
+  border-radius: 1%;
+  box-shadow: 5px 10px #000000;
+}
+
+.rodape {
+  font-family: arial;
+  font-size: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  bottom: 10px;
+  left: 10px;
+  z-index: 804;
+  /*margin: auto;*/
+}
+
+.rodape p {
+  margin: 0px 10px 0px 10px;
+}
+
+.rodape img {
+  height: 20px;
+  margin-left: 10px;
+}

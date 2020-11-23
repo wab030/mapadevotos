@@ -1,0 +1,42 @@
+{
+  "candidates": [
+    {
+      "nomeCandidato": "A",
+      "numeroCandidato": "55678",
+      "DescCargo": "Vereador",
+      "escolas": [
+        {
+          "nome": "COLÉGIO DE APLICAÇÃO PIO XII",
+          "latitude": -22.9099,
+          "longitude": -47.0522,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "COLÉGIO FRANCISCANO AVE MARIA",
+          "latitude": -22.912,
+          "longitude": -47.0548,
+          "quantidadeVotos": 0
+        }
+      ]
+    },
+    {
+      "nomeCandidato": "A",
+      "numeroCandidato": "55678",
+      "DescCargo": "Vereador",
+      "escolas": [
+        {
+          "nome": "COLÉGIO DE APLICAÇÃO PIO XII",
+          "latitude": -22.9099,
+          "longitude": -47.0522,
+          "quantidadeVotos": 0
+        },
+        {
+          "nome": "COLÉGIO FRANCISCANO AVE MARIA",
+          "latitude": -22.912,
+          "longitude": -47.0548,
+          "quantidadeVotos": 0
+        }
+      ]
+    }
+  ]
+}
